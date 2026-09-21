@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Category,Sub_Category,Region,Segment,City,Quantity,Discount,Sales,Profit
+ORD-10034,2024-01-01,Office Supplies,Binders,West,Consumer,Boston,6,0.15,455.15,21.65
+ORD-10447,2024-01-03,Office Supplies,Binders,Central,Consumer,Houston,6,0.2,525.74,40.54
+ORD-10389,2024-01-03,Office Supplies,Art,West,Consumer,Houston,5,0.05,552.56,41.78
+ORD-10197,2024-01-04,Office Supplies,Binders,South,Consumer,Los Angeles,2,0.15,135.9,-5.02
+ORD-10148,2024-01-07,Furniture,Chairs,South,Corporate,Boston,9,0.15,2003.52,176.06
+ORD-10124,2024-01-08,Technology,Accessories,South,Consumer,Atlanta,8,0.15,2955.97,522.12
+ORD-10243,2024-01-11,Office Supplies,Storage,South,Home Office,Los Angeles,5,0.1,62.14,8.17
+ORD-10412,2024-01-11,Office Supplies,Art,West,Corporate,Los Angeles,7,0.2,464.28,24.48
+ORD-10297,2024-01-12,Office Supplies,Storage,Central,Consumer,Chicago,9,0.0,825.55,98.94
+ORD-10319,2024-01-16,Technology,Computers,West,Consumer,Chicago,9,0.05,1466.4,77.62
+ORD-10359,2024-01-16,Office Supplies,Binders,Central,Consumer,Atlanta,6,0.05,280.56,61.49
+ORD-10211,2024-01-17,Furniture,Bookcases,East,Consumer,Atlanta,9,0.2,987.12,69.78
+ORD-10293,2024-01-17,Office Supplies,Paper,West,Corporate,Seattle,4,0.15,343.31,35.52
+ORD-10273,2024-01-17,Office Supplies,Binders,South,Corporate,Houston,3,0.15,201.22,33.5
+ORD-10101,2024-01-18,Technology,Phones,South,Corporate,Los Angeles,6,0.3,865.12,72.48
+ORD-10100,2024-01-19,Technology,Phones,South,Corporate,Los Angeles,7,0.1,1691.73,429.6
+ORD-10439,2024-01-20,Office Supplies,Storage,South,Corporate,New York,9,0.0,303.6,31.08
+ORD-10001,2024-01-23,Furniture,Tables,East,Home Office,Houston,5,0.2,1064.44,57.98
+ORD-10061,2024-01-25,Furniture,Chairs,West,Home Office,Chicago,5,0.1,1114.87,115.84
+ORD-10279,2024-01-25,Office Supplies,Paper,East,Corporate,Seattle,9,0.05,502.7,165.47
+ORD-10219,2024-01-27,Office Supplies,Paper,East,Home Office,Los Angeles,3,0.1,200.21,36.19
+ORD-10240,2024-01-29,Technology,Computers,Central,Consumer,Atlanta,3,0.3,544.51,49.25
+ORD-10022,2024-01-29,Technology,Computers,East,Home Office,Boston,8,0.2,2478.6,-34.68
+ORD-10374,2024-01-29,Office Supplies,Binders,Central,Corporate,Atlanta,1,0.2,36.48,5.79
+ORD-10200,2024-01-29,Office Supplies,Paper,South,Home Office,Houston,8,0.0,665.45,99.5
+ORD-10091,2024-02-01,Technology,Accessories,West,Home Office,Atlanta,1,0.2,192.14,1.93
+ORD-10210,2024-02-03,Technology,Phones,Central,Corporate,Atlanta,2,0.0,494.65,67.01
+ORD-10478,2024-02-06,Furniture,Chairs,South,Corporate,Los Angeles,8,0.0,1801.72,241.13
+ORD-10472,2024-02-07,Office Supplies,Binders,Central,Home Office,Atlanta,6,0.2,684.56,79.22
+ORD-10280,2024-02-08,Office Supplies,Art,West,Consumer,Dallas,7,0.2,549.62,135.44
+ORD-10351,2024-02-08,Furniture,Chairs,West,Corporate,Boston,2,0.05,82.79,5.35
+ORD-10373,2024-02-08,Technology,Accessories,East,Consumer,Los Angeles,8,0.1,2045.45,19.74
+ORD-10466,2024-02-09,Furniture,Chairs,East,Home Office,Boston,2,0.1,268.85,72.09
+ORD-10483,2024-02-09,Furniture,Chairs,Central,Home Office,Boston,8,0.1,1105.8,253.59
+ORD-10492,2024-02-09,Office Supplies,Storage,East,Corporate,Seattle,1,0.1,136.58,20.24
+ORD-10493,2024-02-09,Technology,Accessories,West,Corporate,Chicago,1,0.0,356.12,62.74
+ORD-10209,2024-02-10,Technology,Phones,West,Consumer,Atlanta,4,0.2,667.51,50.42
+ORD-10278,2024-02-11,Office Supplies,Binders,East,Home Office,Seattle,7,0.15,762.53,60.21
+ORD-10207,2024-02-11,Technology,Phones,East,Corporate,Atlanta,5,0.1,469.56,83.66
+ORD-10292,2024-02-13,Technology,Phones,West,Home Office,Chicago,8,0.1,1820.41,155.21
+ORD-10317,2024-02-16,Furniture,Tables,West,Home Office,Houston,1,0.2,142.14,24.19
+ORD-10434,2024-02-16,Technology,Accessories,East,Consumer,Atlanta,2,0.1,386.88,47.25
+ORD-10073,2024-02-18,Technology,Computers,East,Consumer,Atlanta,4,0.15,905.68,187.66
+ORD-10021,2024-02-20,Office Supplies,Paper,West,Consumer,Boston,4,0.0,348.43,16.31
+ORD-10132,2024-02-20,Technology,Accessories,East,Home Office,New York,4,0.15,822.88,34.58
+ORD-10172,2024-02-22,Technology,Computers,East,Home Office,Houston,1,0.05,143.7,14.04
+ORD-10433,2024-02-23,Office Supplies,Art,Central,Corporate,Chicago,9,0.1,473.24,5.95
+ORD-10128,2024-02-23,Office Supplies,Art,East,Home Office,Seattle,4,0.0,358.63,63.55
+ORD-10113,2024-02-24,Office Supplies,Storage,Central,Home Office,Boston,6,0.15,414.27,-2.71
+ORD-10119,2024-02-24,Office Supplies,Paper,West,Home Office,Dallas,9,0.15,649.2,76.6
+ORD-10251,2024-02-24,Technology,Accessories,South,Home Office,Dallas,3,0.0,912.64,162.77
+ORD-10181,2024-02-28,Furniture,Chairs,South,Home Office,Dallas,9,0.2,1235.2,31.56
+ORD-10276,2024-03-01,Furniture,Tables,East,Home Office,Los Angeles,9,0.1,1645.06,-38.85
+ORD-10405,2024-03-01,Furniture,Tables,East,Home Office,Houston,8,0.15,1414.87,44.11
+ORD-10444,2024-03-02,Furniture,Bookcases,West,Consumer,Houston,6,0.1,1369.97,133.55
+ORD-10413,2024-03-02,Office Supplies,Art,South,Corporate,Chicago,7,0.15,792.0,19.64
+ORD-10081,2024-03-03,Office Supplies,Art,Central,Corporate,Seattle,2,0.1,165.48,40.46
+ORD-10068,2024-03-03,Office Supplies,Storage,South,Consumer,Los Angeles,9,0.1,1085.17,113.56
+ORD-10255,2024-03-09,Technology,Phones,South,Home Office,Boston,2,0.1,508.95,28.2
+ORD-10270,2024-03-13,Technology,Accessories,South,Home Office,Chicago,6,0.1,770.82,-2.93
+ORD-10050,2024-03-15,Technology,Phones,South,Home Office,Seattle,8,0.0,1685.86,443.79
+ORD-10204,2024-03-15,Office Supplies,Storage,South,Corporate,Boston,5,0.1,360.05,76.03
+ORD-10139,2024-03-18,Furniture,Chairs,West,Home Office,Chicago,8,0.15,1590.9,324.82
+ORD-10303,2024-03-21,Furniture,Chairs,Central,Corporate,Boston,9,0.0,1818.34,428.83
+ORD-10159,2024-03-22,Technology,Accessories,East,Consumer,Los Angeles,6,0.0,1486.87,240.18
+ORD-10074,2024-03-24,Office Supplies,Binders,West,Home Office,Houston,9,0.1,700.15,56.03
+ORD-10152,2024-03-25,Technology,Accessories,Central,Corporate,Dallas,6,0.0,2308.91,729.21
+ORD-10322,2024-03-26,Office Supplies,Paper,Central,Home Office,Atlanta,3,0.2,152.47,9.26
+ORD-10118,2024-03-27,Technology,Computers,Central,Corporate,Houston,4,0.15,420.44,-23.65
+ORD-10138,2024-03-28,Office Supplies,Binders,Central,Home Office,Atlanta,3,0.2,335.58,-2.88
+ORD-10311,2024-03-29,Furniture,Tables,South,Home Office,Atlanta,5,0.1,885.49,146.06
+ORD-10450,2024-03-29,Technology,Accessories,West,Consumer,Chicago,2,0.3,178.68,28.57
+ORD-10500,2024-04-01,Office Supplies,Art,South,Home Office,Seattle,6,0.0,506.4,112.77
+ORD-10137,2024-04-05,Furniture,Chairs,West,Corporate,Chicago,5,0.2,302.92,3.11
+ORD-10346,2024-04-07,Office Supplies,Storage,South,Consumer,Los Angeles,6,0.2,197.33,2.72
+ORD-10250,2024-04-07,Office Supplies,Binders,East,Corporate,New York,2,0.2,109.33,12.17
+ORD-10438,2024-04-08,Office Supplies,Paper,South,Home Office,Dallas,6,0.0,590.83,156.41
+ORD-10288,2024-04-11,Furniture,Chairs,West,Home Office,Atlanta,8,0.05,1364.4,212.0
+ORD-10018,2024-04-15,Furniture,Chairs,East,Corporate,Dallas,9,0.05,1336.37,138.68
+ORD-10427,2024-04-16,Furniture,Chairs,South,Home Office,Los Angeles,1,0.2,134.38,-5.86
+ORD-10284,2024-04-17,Technology,Accessories,West,Consumer,Dallas,8,0.0,2039.64,40.05
+ORD-10362,2024-04-17,Office Supplies,Storage,South,Corporate,Dallas,1,0.05,37.0,9.12
+ORD-10201,2024-04-18,Office Supplies,Storage,South,Consumer,Chicago,2,0.0,137.8,11.99
+ORD-10246,2024-04-22,Office Supplies,Binders,East,Consumer,Dallas,1,0.0,50.16,6.86
+ORD-10107,2024-04-22,Furniture,Chairs,Central,Consumer,Houston,1,0.05,196.4,8.85
+ORD-10108,2024-04-23,Office Supplies,Binders,East,Consumer,Chicago,7,0.05,500.7,97.53
+ORD-10482,2024-04-23,Office Supplies,Storage,Central,Consumer,New York,1,0.2,68.91,3.46
+ORD-10185,2024-04-24,Technology,Phones,East,Consumer,Houston,9,0.1,2259.09,584.23
+ORD-10488,2024-04-24,Technology,Accessories,West,Consumer,New York,7,0.15,1871.98,145.02
+ORD-10044,2024-04-26,Office Supplies,Binders,East,Corporate,New York,1,0.0,106.38,20.07
+ORD-10166,2024-04-28,Office Supplies,Art,West,Consumer,Atlanta,4,0.0,470.83,110.79
+ORD-10449,2024-04-29,Furniture,Tables,East,Consumer,Dallas,8,0.2,552.47,104.47
+ORD-10141,2024-04-29,Office Supplies,Paper,West,Home Office,New York,8,0.1,243.8,9.11
+ORD-10471,2024-05-03,Technology,Computers,West,Home Office,Los Angeles,5,0.2,537.71,-1.83
+ORD-10017,2024-05-06,Technology,Accessories,Central,Consumer,Chicago,6,0.1,1058.65,97.49
+ORD-10206,2024-05-07,Technology,Phones,Central,Corporate,Seattle,1,0.1,258.63,66.69
+ORD-10183,2024-05-07,Office Supplies,Binders,West,Home Office,Chicago,1,0.15,89.82,5.14
+ORD-10234,2024-05-09,Furniture,Bookcases,East,Consumer,Seattle,7,0.0,915.78,155.75
+ORD-10347,2024-05-10,Office Supplies,Art,East,Home Office,Los Angeles,3,0.0,248.73,39.02
+ORD-10281,2024-05-10,Office Supplies,Paper,East,Corporate,Houston,9,0.2,682.89,12.1
+ORD-10016,2024-05-12,Technology,Computers,South,Home Office,Seattle,4,0.1,1131.28,-88.23
+ORD-10040,2024-05-16,Furniture,Tables,South,Corporate,Los Angeles,9,0.2,1499.49,137.47
+ORD-10328,2024-05-16,Office Supplies,Storage,South,Consumer,Chicago,7,0.15,535.31,151.0
+ORD-10403,2024-05-19,Furniture,Bookcases,South,Consumer,Los Angeles,3,0.1,645.11,58.0
+ORD-10086,2024-05-20,Furniture,Tables,East,Home Office,Seattle,1,0.1,138.04,11.37
+ORD-10369,2024-05-20,Technology,Computers,West,Corporate,Dallas,3,0.15,1003.54,70.26
+ORD-10007,2024-05-20,Technology,Phones,Central,Consumer,Boston,6,0.0,1188.26,159.24
+ORD-10391,2024-05-21,Office Supplies,Binders,Central,Home Office,Seattle,9,0.2,220.19,2.38
+ORD-10098,2024-05-23,Furniture,Tables,Central,Corporate,Seattle,2,0.1,254.35,62.7
+ORD-10445,2024-05-24,Office Supplies,Storage,West,Home Office,New York,5,0.1,389.45,47.82
+ORD-10205,2024-05-25,Office Supplies,Art,West,Corporate,Seattle,8,0.2,280.56,8.61
+ORD-10395,2024-05-25,Furniture,Tables,South,Corporate,Dallas,3,0.0,510.42,9.15
+ORD-10497,2024-05-26,Furniture,Tables,East,Home Office,Los Angeles,3,0.1,633.36,-22.77
+ORD-10153,2024-05-26,Technology,Accessories,South,Corporate,Chicago,2,0.2,409.74,10.21
+ORD-10259,2024-05-27,Furniture,Chairs,East,Home Office,Boston,5,0.15,918.32,145.77
+ORD-10077,2024-05-27,Office Supplies,Binders,South,Home Office,Chicago,7,0.1,674.66,112.38
+ORD-10241,2024-05-28,Office Supplies,Storage,Central,Corporate,Seattle,9,0.0,638.29,77.19
+ORD-10151,2024-05-30,Office Supplies,Paper,East,Home Office,Houston,4,0.0,165.16,32.64
+ORD-10343,2024-05-31,Technology,Phones,West,Corporate,Houston,7,0.05,1846.22,104.44
+ORD-10213,2024-06-01,Office Supplies,Art,South,Home Office,Los Angeles,2,0.0,201.29,28.84
+ORD-10415,2024-06-01,Office Supplies,Art,West,Corporate,Houston,4,0.15,294.27,20.73
+ORD-10267,2024-06-02,Office Supplies,Storage,South,Home Office,Atlanta,8,0.0,526.12,65.66
+ORD-10071,2024-06-04,Office Supplies,Paper,West,Home Office,Los Angeles,2,0.1,91.74,22.92
+ORD-10179,2024-06-06,Office Supplies,Binders,South,Consumer,New York,7,0.2,568.45,33.71
+ORD-10342,2024-06-07,Furniture,Tables,West,Corporate,Houston,4,0.05,839.89,177.94
+ORD-10448,2024-06-08,Office Supplies,Art,East,Corporate,Chicago,3,0.2,205.37,25.14
+ORD-10065,2024-06-09,Technology,Phones,South,Home Office,Atlanta,3,0.15,1057.49,133.36
+ORD-10358,2024-06-09,Furniture,Tables,East,Corporate,Chicago,6,0.1,1416.81,58.1
+ORD-10116,2024-06-10,Office Supplies,Art,Central,Corporate,Dallas,5,0.2,175.8,25.57
+ORD-10145,2024-06-13,Technology,Phones,East,Consumer,Atlanta,5,0.0,682.99,118.07
+ORD-10223,2024-06-16,Technology,Computers,West,Corporate,Atlanta,2,0.0,215.99,42.07
+ORD-10499,2024-06-16,Office Supplies,Paper,South,Consumer,Seattle,1,0.1,86.67,12.83
+ORD-10463,2024-06-18,Office Supplies,Paper,West,Home Office,Dallas,6,0.05,488.25,96.5
+ORD-10365,2024-06-18,Office Supplies,Binders,West,Consumer,Chicago,3,0.2,201.22,-4.44
+ORD-10348,2024-06-19,Technology,Phones,East,Home Office,Boston,6,0.15,1016.6,104.2
+ORD-10285,2024-06-20,Furniture,Chairs,West,Corporate,Dallas,6,0.15,960.78,69.6
+ORD-10104,2024-06-23,Furniture,Bookcases,South,Consumer,Houston,6,0.15,1027.26,38.76
+ORD-10475,2024-06-24,Furniture,Chairs,Central,Corporate,Houston,3,0.05,855.21,205.08
+ORD-10066,2024-06-25,Furniture,Tables,West,Consumer,Dallas,9,0.2,1300.5,94.18
+ORD-10121,2024-06-26,Office Supplies,Paper,West,Corporate,Seattle,1,0.05,121.37,25.85
+ORD-10058,2024-06-27,Technology,Phones,South,Consumer,Chicago,5,0.05,1095.96,274.07
+ORD-10062,2024-06-28,Technology,Accessories,Central,Corporate,Dallas,8,0.15,1916.06,359.67
+ORD-10146,2024-06-30,Technology,Computers,West,Consumer,Los Angeles,8,0.05,2237.21,772.24
+ORD-10033,2024-06-30,Technology,Accessories,Central,Consumer,Seattle,9,0.3,1065.37,190.34
+ORD-10059,2024-06-30,Technology,Computers,West,Corporate,New York,3,0.05,776.35,116.49
+ORD-10349,2024-07-01,Furniture,Bookcases,East,Consumer,Houston,2,0.2,432.69,1.61
+ORD-10247,2024-07-05,Furniture,Tables,East,Consumer,Dallas,7,0.15,783.48,127.92
+ORD-10404,2024-07-05,Office Supplies,Paper,West,Corporate,Dallas,8,0.2,475.43,56.29
+ORD-10345,2024-07-06,Furniture,Bookcases,Central,Consumer,Los Angeles,4,0.1,976.0,86.08
+ORD-10105,2024-07-12,Office Supplies,Storage,East,Consumer,Atlanta,3,0.05,281.58,85.71
+ORD-10461,2024-07-13,Technology,Computers,East,Corporate,Dallas,8,0.1,1524.31,182.96
+ORD-10308,2024-07-18,Furniture,Chairs,East,Corporate,Atlanta,1,0.05,165.05,23.79
+ORD-10193,2024-07-19,Office Supplies,Binders,South,Corporate,Dallas,2,0.1,122.81,18.77
+ORD-10266,2024-07-19,Office Supplies,Art,South,Consumer,Chicago,8,0.3,288.0,10.97
+ORD-10041,2024-07-20,Technology,Accessories,Central,Home Office,Atlanta,5,0.1,985.29,38.11
+ORD-10186,2024-07-27,Office Supplies,Art,East,Home Office,Boston,4,0.05,39.22,4.22
+ORD-10052,2024-07-28,Office Supplies,Art,West,Home Office,Los Angeles,5,0.3,463.86,15.78
+ORD-10009,2024-07-28,Office Supplies,Art,East,Consumer,Los Angeles,7,0.05,683.18,175.75
+ORD-10087,2024-08-02,Office Supplies,Paper,West,Consumer,New York,2,0.1,141.25,8.98
+ORD-10300,2024-08-03,Technology,Computers,South,Home Office,Chicago,4,0.0,921.83,140.94
+ORD-10496,2024-08-03,Furniture,Tables,East,Consumer,Boston,2,0.1,251.82,47.52
+ORD-10446,2024-08-03,Office Supplies,Binders,West,Home Office,Chicago,2,0.1,89.97,8.57
+ORD-10275,2024-08-04,Furniture,Bookcases,West,Home Office,Seattle,3,0.15,545.17,30.83
+ORD-10429,2024-08-05,Furniture,Bookcases,East,Corporate,Seattle,3,0.2,396.28,53.28
+ORD-10006,2024-08-05,Technology,Phones,East,Home Office,Houston,4,0.0,922.96,73.41
+ORD-10109,2024-08-09,Technology,Computers,Central,Consumer,Dallas,5,0.0,1427.15,185.26
+ORD-10334,2024-08-10,Technology,Accessories,Central,Home Office,Dallas,6,0.15,1148.59,210.69
+ORD-10485,2024-08-11,Furniture,Bookcases,Central,Consumer,Boston,2,0.2,452.12,71.15
+ORD-10470,2024-08-13,Office Supplies,Paper,South,Home Office,New York,9,0.15,885.82,65.52
+ORD-10428,2024-08-13,Office Supplies,Storage,Central,Corporate,Boston,1,0.0,78.97,9.28
+ORD-10414,2024-08-13,Furniture,Bookcases,South,Corporate,Dallas,1,0.2,107.55,9.79
+ORD-10171,2024-08-13,Office Supplies,Binders,South,Home Office,Atlanta,7,0.1,607.57,37.26
+ORD-10248,2024-08-14,Office Supplies,Storage,South,Corporate,New York,9,0.15,928.52,82.05
+ORD-10130,2024-08-16,Furniture,Tables,Central,Corporate,Seattle,6,0.0,842.66,177.5
+ORD-10283,2024-08-16,Furniture,Bookcases,South,Consumer,Los Angeles,4,0.2,503.66,64.11
+ORD-10195,2024-08-22,Furniture,Chairs,Central,Corporate,Dallas,3,0.2,481.92,73.28
+ORD-10190,2024-08-24,Technology,Phones,Central,Home Office,New York,9,0.0,1982.56,357.66
+ORD-10129,2024-08-26,Technology,Phones,Central,Consumer,Atlanta,3,0.0,1213.5,174.88
+ORD-10381,2024-08-26,Technology,Accessories,East,Consumer,Boston,7,0.1,1886.84,528.31
+ORD-10423,2024-08-30,Technology,Accessories,Central,Home Office,Atlanta,5,0.2,384.63,34.89
+ORD-10047,2024-08-31,Technology,Phones,East,Consumer,Los Angeles,2,0.05,318.38,64.39
+ORD-10261,2024-08-31,Office Supplies,Storage,South,Consumer,Boston,3,0.0,266.34,19.31
+ORD-10377,2024-09-01,Office Supplies,Art,West,Corporate,Los Angeles,1,0.15,117.44,20.53
+ORD-10323,2024-09-06,Office Supplies,Binders,Central,Consumer,Chicago,1,0.15,81.61,7.22
+ORD-10474,2024-09-07,Office Supplies,Storage,East,Home Office,New York,3,0.05,126.81,16.06
+ORD-10368,2024-09-07,Office Supplies,Storage,Central,Corporate,Houston,1,0.2,87.76,2.04
+ORD-10170,2024-09-12,Furniture,Tables,Central,Home Office,Atlanta,9,0.2,1766.02,261.4
+ORD-10431,2024-09-15,Technology,Computers,South,Corporate,Houston,7,0.3,1327.72,52.21
+ORD-10169,2024-09-17,Technology,Phones,East,Consumer,Dallas,3,0.1,963.11,140.75
+ORD-10468,2024-09-17,Office Supplies,Paper,East,Corporate,Chicago,3,0.2,215.85,28.23
+ORD-10495,2024-09-18,Furniture,Bookcases,West,Home Office,Chicago,3,0.2,340.79,28.66
+ORD-10112,2024-09-20,Technology,Accessories,Central,Consumer,Chicago,4,0.15,570.55,75.69
+ORD-10135,2024-09-20,Office Supplies,Paper,South,Home Office,New York,2,0.2,87.46,3.57
+ORD-10383,2024-09-22,Office Supplies,Paper,Central,Consumer,Dallas,5,0.0,617.16,26.78
+ORD-10455,2024-09-23,Technology,Phones,South,Consumer,New York,7,0.3,1714.14,4.16
+ORD-10225,2024-09-24,Technology,Computers,East,Corporate,Boston,8,0.1,1628.97,291.93
+ORD-10312,2024-09-24,Technology,Computers,East,Consumer,Los Angeles,5,0.15,389.87,33.16
+ORD-10379,2024-09-28,Office Supplies,Paper,Central,Home Office,Boston,4,0.3,211.0,25.18
+ORD-10340,2024-09-29,Technology,Computers,West,Home Office,Seattle,9,0.2,1550.96,385.39
+ORD-10370,2024-09-30,Technology,Accessories,East,Corporate,Seattle,8,0.1,1386.99,110.46
+ORD-10290,2024-10-01,Furniture,Chairs,West,Consumer,Seattle,9,0.2,1275.61,50.36
+ORD-10194,2024-10-04,Office Supplies,Storage,Central,Home Office,Boston,6,0.0,708.92,71.89
+ORD-10176,2024-10-06,Technology,Phones,West,Corporate,Atlanta,2,0.15,224.25,22.06
+ORD-10191,2024-10-07,Technology,Computers,West,Consumer,New York,4,0.2,633.01,54.11
+ORD-10157,2024-10-11,Office Supplies,Binders,West,Consumer,Chicago,2,0.05,107.77,11.66
+ORD-10067,2024-10-11,Technology,Computers,Central,Corporate,Seattle,5,0.0,2251.79,-103.38
+ORD-10093,2024-10-11,Office Supplies,Paper,Central,Corporate,New York,5,0.15,371.49,60.78
+ORD-10097,2024-10-12,Furniture,Tables,South,Corporate,Atlanta,2,0.15,279.67,49.41
+ORD-10220,2024-10-13,Office Supplies,Art,South,Home Office,Dallas,1,0.1,103.95,21.22
+ORD-10140,2024-10-14,Office Supplies,Art,South,Consumer,Atlanta,8,0.0,1035.04,306.61
+ORD-10318,2024-10-14,Technology,Phones,South,Consumer,Seattle,5,0.15,988.69,192.08
+ORD-10494,2024-10-15,Technology,Phones,South,Home Office,Los Angeles,4,0.05,782.61,96.42
+ORD-10257,2024-10-15,Office Supplies,Binders,East,Consumer,Boston,6,0.15,266.88,25.66
+ORD-10238,2024-10-18,Technology,Computers,West,Consumer,Boston,6,0.1,1838.15,112.42
+ORD-10396,2024-10-19,Office Supplies,Art,East,Home Office,Houston,7,0.2,653.14,107.24
+ORD-10272,2024-10-22,Office Supplies,Art,West,Consumer,Boston,3,0.0,370.71,99.23
+ORD-10024,2024-10-22,Furniture,Tables,Central,Corporate,Seattle,4,0.1,412.54,101.09
+ORD-10242,2024-10-22,Office Supplies,Storage,West,Consumer,Chicago,5,0.1,461.17,73.15
+ORD-10025,2024-10-23,Furniture,Bookcases,Central,Consumer,Seattle,5,0.1,1234.5,146.8
+ORD-10484,2024-10-27,Office Supplies,Paper,Central,Home Office,Boston,7,0.0,608.81,186.97
+ORD-10410,2024-10-28,Technology,Phones,West,Consumer,Los Angeles,8,0.3,1241.94,75.29
+ORD-10003,2024-10-28,Office Supplies,Binders,Central,Consumer,Seattle,1,0.2,50.96,1.24
+ORD-10094,2024-10-31,Furniture,Chairs,West,Consumer,New York,2,0.2,383.57,40.09
+ORD-10039,2024-11-04,Office Supplies,Binders,East,Consumer,Dallas,2,0.05,149.41,23.9
+ORD-10249,2024-11-05,Office Supplies,Binders,West,Consumer,Houston,3,0.0,30.0,1.7
+ORD-10422,2024-11-05,Office Supplies,Storage,Central,Consumer,Boston,2,0.1,134.4,6.55
+ORD-10364,2024-11-06,Furniture,Chairs,South,Consumer,Atlanta,8,0.1,1133.64,176.39
+ORD-10256,2024-11-07,Furniture,Chairs,East,Corporate,Seattle,8,0.2,410.71,15.29
+ORD-10043,2024-11-08,Technology,Phones,South,Corporate,Seattle,2,0.15,362.86,83.04
+ORD-10125,2024-11-08,Technology,Accessories,East,Home Office,Houston,3,0.3,374.8,28.97
+ORD-10479,2024-11-11,Office Supplies,Art,South,Corporate,Chicago,9,0.15,865.65,154.08
+ORD-10298,2024-11-13,Technology,Computers,South,Consumer,Dallas,9,0.2,2344.24,161.61
+ORD-10486,2024-11-13,Office Supplies,Storage,West,Home Office,Seattle,8,0.0,809.33,77.09
+ORD-10090,2024-11-13,Furniture,Tables,West,Consumer,New York,2,0.15,168.9,21.53
+ORD-10376,2024-11-13,Technology,Computers,South,Consumer,Chicago,1,0.2,260.23,-2.02
+ORD-10409,2024-11-14,Office Supplies,Paper,South,Corporate,Atlanta,5,0.15,178.42,7.26
+ORD-10457,2024-11-18,Technology,Phones,Central,Consumer,Boston,5,0.15,1323.5,-26.53
+ORD-10490,2024-11-18,Office Supplies,Art,South,Consumer,Seattle,5,0.2,199.28,16.8
+ORD-10015,2024-11-19,Technology,Computers,West,Corporate,Atlanta,9,0.2,1440.48,271.62
+ORD-10394,2024-11-19,Office Supplies,Binders,South,Corporate,Dallas,5,0.0,469.53,60.55
+ORD-10085,2024-11-22,Technology,Accessories,West,Consumer,Los Angeles,1,0.05,204.89,26.78
+ORD-10473,2024-11-23,Technology,Accessories,East,Consumer,Seattle,2,0.1,421.78,50.8
+ORD-10127,2024-11-23,Office Supplies,Paper,East,Consumer,Dallas,1,0.3,32.76,2.33
+ORD-10451,2024-11-24,Office Supplies,Storage,East,Consumer,New York,1,0.0,122.47,27.06
+ORD-10294,2024-11-25,Furniture,Tables,Central,Corporate,Seattle,9,0.1,2023.81,149.5
+ORD-10149,2024-11-25,Technology,Computers,South,Corporate,Houston,8,0.1,1482.84,118.9
+ORD-10426,2024-11-25,Furniture,Chairs,East,Corporate,Boston,4,0.1,632.6,80.94
+ORD-10462,2024-11-27,Office Supplies,Art,South,Consumer,Chicago,9,0.1,888.12,198.32
+ORD-10325,2024-11-30,Office Supplies,Storage,Central,Corporate,Atlanta,8,0.15,573.44,47.41
+ORD-10498,2024-12-01,Technology,Computers,East,Consumer,Chicago,1,0.1,351.6,43.63
+ORD-10301,2024-12-04,Technology,Accessories,Central,Corporate,Dallas,8,0.1,2257.38,193.92
+ORD-10385,2024-12-05,Office Supplies,Storage,East,Corporate,Los Angeles,6,0.1,762.83,54.53
+ORD-10079,2024-12-07,Furniture,Chairs,West,Corporate,Seattle,1,0.3,91.51,23.18
+ORD-10218,2024-12-07,Office Supplies,Paper,South,Consumer,Atlanta,5,0.2,427.27,30.83
+ORD-10402,2024-12-09,Office Supplies,Storage,South,Corporate,Atlanta,8,0.3,407.33,33.5
+ORD-10411,2024-12-09,Technology,Computers,East,Home Office,Boston,9,0.15,3068.26,316.34
+ORD-10030,2024-12-11,Technology,Computers,East,Consumer,Los Angeles,7,0.15,2685.14,266.95
+ORD-10002,2024-12-11,Office Supplies,Storage,Central,Consumer,Houston,4,0.1,202.9,30.71
+ORD-10055,2024-12-12,Furniture,Chairs,South,Corporate,Atlanta,5,0.05,1241.45,220.0
+ORD-10123,2024-12-14,Technology,Accessories,East,Consumer,Seattle,9,0.1,2592.82,720.79
+ORD-10487,2024-12-14,Technology,Accessories,Central,Home Office,Boston,5,0.15,1139.35,49.36
+ORD-10355,2024-12-14,Technology,Phones,South,Home Office,Seattle,8,0.15,1223.42,63.85
+ORD-10208,2024-12-21,Office Supplies,Paper,West,Consumer,Dallas,3,0.05,357.77,53.59
+ORD-10014,2024-12-21,Technology,Phones,Central,Home Office,Boston,8,0.05,2057.16,286.86
+ORD-10453,2024-12-22,Furniture,Tables,West,Consumer,Boston,3,0.15,54.62,4.3
+ORD-10192,2024-12-24,Office Supplies,Paper,West,Consumer,Los Angeles,6,0.15,561.41,1.86
+ORD-10384,2024-12-24,Office Supplies,Art,Central,Consumer,Seattle,1,0.15,16.44,2.12
+ORD-10083,2024-12-25,Furniture,Tables,East,Corporate,Los Angeles,7,0.15,566.65,122.08
+ORD-10075,2024-12-26,Office Supplies,Storage,South,Home Office,Los Angeles,7,0.0,766.61,103.96
+ORD-10235,2024-12-28,Technology,Accessories,West,Home Office,Houston,3,0.15,472.71,51.95
+ORD-10004,2024-12-28,Furniture,Chairs,South,Corporate,Houston,5,0.1,643.29,-19.21
+ORD-10175,2024-12-29,Office Supplies,Binders,South,Corporate,Atlanta,5,0.1,418.0,89.26
+ORD-10350,2024-12-29,Office Supplies,Storage,Central,Home Office,New York,8,0.2,116.08,2.14
+ORD-10264,2024-12-30,Furniture,Tables,West,Consumer,Houston,1,0.0,193.2,54.65
+ORD-10425,2024-12-31,Technology,Phones,West,Home Office,Houston,8,0.05,2014.5,267.55
+ORD-10036,2025-01-05,Office Supplies,Binders,West,Home Office,Dallas,4,0.1,319.43,4.58
+ORD-10103,2025-01-05,Technology,Accessories,Central,Consumer,Atlanta,8,0.0,1608.7,445.48
+ORD-10239,2025-01-05,Office Supplies,Paper,West,Corporate,New York,5,0.15,512.26,66.26
+ORD-10335,2025-01-06,Technology,Phones,Central,Corporate,Chicago,8,0.1,2774.04,535.91
+ORD-10306,2025-01-08,Office Supplies,Storage,East,Home Office,Dallas,8,0.05,782.66,88.23
+ORD-10392,2025-01-10,Furniture,Bookcases,West,Corporate,Houston,1,0.0,161.49,22.69
+ORD-10382,2025-01-11,Office Supplies,Binders,West,Corporate,Atlanta,5,0.15,332.77,31.62
+ORD-10020,2025-01-12,Technology,Phones,East,Corporate,Houston,9,0.1,1695.98,291.44
+ORD-10214,2025-01-12,Technology,Accessories,South,Home Office,Chicago,9,0.1,1912.58,141.07
+ORD-10406,2025-01-14,Office Supplies,Paper,Central,Consumer,Houston,5,0.05,527.79,79.87
+ORD-10117,2025-01-14,Office Supplies,Paper,West,Corporate,New York,6,0.1,446.55,40.52
+ORD-10155,2025-01-15,Office Supplies,Storage,Central,Corporate,Chicago,3,0.0,303.66,32.45
+ORD-10163,2025-01-20,Office Supplies,Paper,East,Consumer,Boston,8,0.2,574.78,28.86
+ORD-10051,2025-01-20,Office Supplies,Binders,Central,Home Office,Seattle,7,0.1,378.87,53.58
+ORD-10386,2025-01-23,Office Supplies,Storage,Central,Home Office,Boston,9,0.1,768.66,37.2
+ORD-10122,2025-01-25,Office Supplies,Paper,West,Corporate,Chicago,2,0.15,141.68,32.87
+ORD-10324,2025-01-25,Technology,Computers,Central,Corporate,Atlanta,2,0.2,295.17,56.95
+ORD-10469,2025-01-29,Technology,Phones,East,Home Office,Dallas,7,0.1,1379.28,311.0
+ORD-10005,2025-01-30,Technology,Phones,East,Consumer,Houston,5,0.1,1113.94,285.11
+ORD-10167,2025-01-30,Furniture,Bookcases,Central,Consumer,Los Angeles,6,0.05,1120.75,101.93
+ORD-10356,2025-01-31,Office Supplies,Storage,East,Consumer,New York,7,0.15,726.97,138.93
+ORD-10401,2025-02-02,Technology,Phones,South,Home Office,Seattle,1,0.3,70.88,8.79
+ORD-10321,2025-02-04,Furniture,Bookcases,West,Consumer,Houston,4,0.0,713.29,139.9
+ORD-10228,2025-02-04,Furniture,Bookcases,South,Corporate,New York,6,0.15,958.39,132.04
+ORD-10336,2025-02-05,Technology,Phones,Central,Corporate,Chicago,5,0.15,1364.14,145.95
+ORD-10029,2025-02-08,Furniture,Chairs,Central,Corporate,Dallas,3,0.0,478.62,81.04
+ORD-10254,2025-02-09,Technology,Computers,Central,Home Office,Seattle,7,0.15,1571.35,256.69
+ORD-10027,2025-02-10,Technology,Phones,West,Home Office,Seattle,6,0.3,407.47,-0.59
+ORD-10367,2025-02-17,Office Supplies,Storage,West,Consumer,Los Angeles,9,0.15,442.11,41.03
+ORD-10371,2025-02-19,Technology,Accessories,South,Home Office,Houston,3,0.0,1109.46,77.06
+ORD-10136,2025-02-21,Furniture,Bookcases,South,Consumer,Seattle,3,0.2,652.01,-26.93
+ORD-10054,2025-02-21,Office Supplies,Paper,South,Home Office,Seattle,9,0.2,675.42,22.49
+ORD-10442,2025-02-22,Office Supplies,Art,West,Corporate,Los Angeles,3,0.15,160.97,13.81
+ORD-10032,2025-02-23,Technology,Computers,Central,Home Office,Chicago,6,0.0,1423.17,223.42
+ORD-10099,2025-02-27,Technology,Accessories,East,Corporate,New York,3,0.2,492.83,47.51
+ORD-10361,2025-03-01,Furniture,Chairs,Central,Home Office,Dallas,2,0.1,396.49,126.61
+ORD-10390,2025-03-04,Office Supplies,Art,East,Home Office,New York,1,0.1,74.88,16.99
+ORD-10095,2025-03-04,Office Supplies,Paper,West,Consumer,Los Angeles,6,0.1,321.84,51.29
+ORD-10038,2025-03-06,Technology,Accessories,East,Corporate,Los Angeles,4,0.0,1188.58,86.34
+ORD-10398,2025-03-07,Furniture,Bookcases,South,Home Office,Boston,9,0.1,1874.58,346.03
+ORD-10286,2025-03-10,Technology,Computers,Central,Consumer,Chicago,5,0.05,1312.78,130.55
+ORD-10088,2025-03-10,Office Supplies,Paper,West,Corporate,New York,6,0.1,395.73,21.72
+ORD-10042,2025-03-11,Furniture,Bookcases,West,Home Office,Dallas,4,0.2,499.74,68.53
+ORD-10380,2025-03-15,Technology,Phones,East,Corporate,Seattle,1,0.1,139.81,27.72
+ORD-10408,2025-03-15,Technology,Phones,East,Corporate,Boston,7,0.1,1834.37,174.44
+ORD-10199,2025-03-17,Office Supplies,Binders,East,Corporate,Houston,5,0.1,214.64,19.77
+ORD-10126,2025-03-18,Furniture,Bookcases,Central,Home Office,New York,8,0.05,1576.6,44.64
+ORD-10337,2025-03-18,Office Supplies,Art,East,Consumer,Los Angeles,3,0.05,112.07,11.9
+ORD-10363,2025-03-25,Furniture,Chairs,Central,Consumer,Boston,6,0.15,1390.0,87.18
+ORD-10268,2025-03-25,Office Supplies,Paper,East,Corporate,Boston,6,0.15,313.65,47.51
+ORD-10143,2025-03-27,Furniture,Tables,Central,Consumer,Houston,4,0.05,651.95,138.46
+ORD-10477,2025-03-29,Technology,Accessories,South,Consumer,Los Angeles,7,0.1,1709.09,249.67
+ORD-10226,2025-03-30,Technology,Computers,West,Corporate,Houston,8,0.2,1687.09,258.53
+ORD-10115,2025-04-02,Office Supplies,Art,Central,Consumer,New York,8,0.0,716.41,70.07
+ORD-10013,2025-04-04,Office Supplies,Storage,Central,Home Office,Dallas,1,0.0,103.9,10.98
+ORD-10023,2025-04-06,Technology,Computers,Central,Consumer,Dallas,9,0.1,1774.46,342.62
+ORD-10465,2025-04-07,Office Supplies,Paper,West,Consumer,Dallas,6,0.0,506.45,78.64
+ORD-10310,2025-04-10,Technology,Accessories,Central,Consumer,Dallas,2,0.1,406.7,-1.63
+ORD-10260,2025-04-11,Technology,Computers,West,Corporate,Atlanta,8,0.15,1907.47,227.79
+ORD-10147,2025-04-13,Office Supplies,Paper,South,Home Office,Dallas,7,0.1,609.44,109.19
+ORD-10072,2025-04-13,Technology,Phones,East,Corporate,Houston,5,0.0,1228.91,396.7
+ORD-10165,2025-04-15,Technology,Accessories,South,Corporate,Atlanta,5,0.05,1209.95,73.97
+ORD-10053,2025-04-19,Office Supplies,Storage,South,Corporate,Seattle,8,0.0,218.78,41.54
+ORD-10120,2025-04-20,Furniture,Tables,West,Corporate,Atlanta,8,0.2,869.22,84.24
+ORD-10229,2025-04-20,Office Supplies,Storage,Central,Consumer,Los Angeles,9,0.0,875.16,235.81
+ORD-10080,2025-04-20,Technology,Phones,South,Corporate,Houston,8,0.2,1601.55,434.62
+ORD-10332,2025-04-21,Office Supplies,Paper,West,Corporate,Atlanta,3,0.1,172.8,12.97
+ORD-10375,2025-04-21,Technology,Phones,Central,Corporate,Boston,6,0.1,1795.36,90.54
+ORD-10096,2025-04-21,Furniture,Chairs,West,Consumer,Houston,9,0.1,805.81,188.73
+ORD-10287,2025-04-22,Furniture,Chairs,West,Corporate,Dallas,4,0.2,728.74,173.51
+ORD-10265,2025-04-26,Office Supplies,Storage,West,Home Office,Atlanta,9,0.15,468.62,70.57
+ORD-10305,2025-04-29,Office Supplies,Storage,West,Corporate,Houston,9,0.05,935.63,152.36
+ORD-10315,2025-05-03,Office Supplies,Storage,South,Corporate,Atlanta,5,0.15,290.61,60.32
+ORD-10441,2025-05-04,Technology,Accessories,Central,Corporate,New York,7,0.05,1775.13,179.06
+ORD-10338,2025-05-04,Office Supplies,Storage,South,Home Office,New York,6,0.15,208.49,28.08
+ORD-10142,2025-05-05,Technology,Phones,Central,Consumer,Seattle,9,0.15,2025.92,306.29
+ORD-10262,2025-05-05,Office Supplies,Binders,Central,Home Office,Dallas,3,0.1,149.36,8.84
+ORD-10424,2025-05-07,Furniture,Chairs,West,Corporate,Seattle,3,0.05,627.63,195.07
+ORD-10360,2025-05-07,Furniture,Tables,East,Home Office,Chicago,9,0.0,1420.52,3.81
+ORD-10196,2025-05-08,Furniture,Tables,East,Corporate,Los Angeles,9,0.2,1701.69,339.94
+ORD-10296,2025-05-11,Furniture,Tables,West,Home Office,Atlanta,3,0.05,752.58,47.27
+ORD-10353,2025-05-11,Office Supplies,Paper,Central,Corporate,New York,9,0.1,903.44,84.88
+ORD-10330,2025-05-12,Technology,Phones,West,Home Office,Los Angeles,6,0.3,1052.94,-57.01
+ORD-10282,2025-05-12,Furniture,Tables,East,Consumer,Chicago,3,0.15,144.38,7.34
+ORD-10144,2025-05-14,Technology,Phones,Central,Consumer,Seattle,5,0.15,688.03,-8.17
+ORD-10173,2025-05-14,Furniture,Bookcases,East,Home Office,New York,7,0.0,830.86,89.8
+ORD-10269,2025-05-15,Furniture,Tables,West,Consumer,Boston,7,0.1,790.0,103.55
+ORD-10064,2025-05-15,Furniture,Chairs,East,Consumer,Houston,3,0.2,296.09,49.43
+ORD-10106,2025-05-16,Technology,Accessories,South,Consumer,Seattle,3,0.05,877.44,105.23
+ORD-10430,2025-05-20,Technology,Computers,West,Corporate,Dallas,9,0.0,1834.17,649.92
+ORD-10174,2025-05-20,Technology,Accessories,South,Corporate,Dallas,5,0.05,407.19,46.73
+ORD-10263,2025-05-21,Technology,Phones,South,Corporate,Dallas,4,0.2,527.57,97.61
+ORD-10244,2025-05-26,Furniture,Chairs,Central,Corporate,Atlanta,4,0.2,363.28,14.35
+ORD-10160,2025-05-28,Office Supplies,Art,East,Corporate,Seattle,1,0.15,118.12,14.87
+ORD-10354,2025-05-30,Technology,Computers,West,Consumer,Los Angeles,1,0.0,317.66,15.53
+ORD-10432,2025-05-31,Office Supplies,Binders,East,Consumer,Atlanta,2,0.3,130.98,-10.22
+ORD-10327,2025-06-02,Furniture,Tables,South,Corporate,Los Angeles,8,0.0,1421.56,132.63
+ORD-10464,2025-06-04,Furniture,Tables,Central,Corporate,Boston,5,0.2,884.4,157.89
+ORD-10188,2025-06-04,Furniture,Tables,South,Home Office,Boston,5,0.05,629.71,120.79
+ORD-10437,2025-06-04,Technology,Computers,South,Consumer,Boston,3,0.0,716.35,140.99
+ORD-10162,2025-06-06,Office Supplies,Storage,Central,Corporate,Boston,7,0.05,750.12,93.85
+ORD-10289,2025-06-07,Technology,Phones,Central,Home Office,Houston,1,0.15,238.87,20.24
+ORD-10187,2025-06-09,Office Supplies,Paper,East,Consumer,Houston,2,0.05,204.01,31.44
+ORD-10341,2025-06-09,Furniture,Tables,Central,Corporate,New York,3,0.2,404.3,57.54
+ORD-10352,2025-06-10,Office Supplies,Paper,Central,Corporate,Boston,7,0.15,526.75,16.01
+ORD-10056,2025-06-12,Office Supplies,Binders,East,Home Office,Houston,5,0.15,42.5,-4.36
+ORD-10168,2025-06-15,Technology,Accessories,West,Corporate,Boston,6,0.0,699.68,0.28
+ORD-10309,2025-06-20,Office Supplies,Art,Central,Consumer,Seattle,3,0.15,179.34,23.66
+ORD-10048,2025-06-20,Furniture,Bookcases,East,Consumer,Los Angeles,8,0.2,1335.06,329.11
+ORD-10467,2025-06-20,Technology,Accessories,Central,Corporate,Houston,4,0.2,1250.35,229.25
+ORD-10316,2025-06-21,Office Supplies,Paper,South,Consumer,New York,3,0.1,27.0,3.86
+ORD-10459,2025-06-24,Technology,Accessories,South,Home Office,Houston,9,0.1,2488.87,549.09
+ORD-10366,2025-06-29,Furniture,Chairs,West,Corporate,Seattle,1,0.3,177.25,10.61
+ORD-10156,2025-07-01,Technology,Accessories,South,Corporate,Houston,3,0.2,906.41,145.5
+ORD-10258,2025-07-01,Office Supplies,Art,South,Corporate,Atlanta,4,0.15,102.29,4.79
+ORD-10189,2025-07-05,Furniture,Tables,Central,Home Office,New York,3,0.1,251.94,36.06
+ORD-10232,2025-07-11,Furniture,Bookcases,East,Home Office,Boston,8,0.0,2061.19,260.56
+ORD-10084,2025-07-14,Technology,Accessories,South,Home Office,Seattle,6,0.1,1672.27,431.3
+ORD-10417,2025-07-17,Technology,Accessories,West,Home Office,Chicago,2,0.1,543.24,69.8
+ORD-10035,2025-07-20,Office Supplies,Storage,South,Consumer,Boston,9,0.3,760.96,-10.74
+ORD-10491,2025-07-21,Furniture,Tables,West,Consumer,Chicago,8,0.1,1314.93,230.9
+ORD-10295,2025-07-22,Technology,Accessories,West,Consumer,New York,5,0.05,1410.82,29.76
+ORD-10418,2025-07-24,Furniture,Chairs,South,Home Office,New York,2,0.2,378.22,82.7
+ORD-10314,2025-07-24,Office Supplies,Art,South,Home Office,Atlanta,4,0.2,259.93,18.19
+ORD-10440,2025-07-26,Technology,Accessories,West,Consumer,Dallas,9,0.1,979.57,123.94
+ORD-10421,2025-07-28,Office Supplies,Storage,West,Home Office,Chicago,4,0.0,318.52,104.84
+ORD-10046,2025-07-28,Office Supplies,Paper,Central,Corporate,Seattle,6,0.15,342.35,91.23
+ORD-10233,2025-07-29,Furniture,Tables,South,Home Office,Houston,7,0.05,606.22,13.4
+ORD-10387,2025-07-30,Technology,Phones,South,Consumer,Boston,9,0.3,1126.83,70.98
+ORD-10131,2025-08-01,Furniture,Chairs,Central,Corporate,Atlanta,7,0.05,825.83,191.8
+ORD-10452,2025-08-02,Furniture,Chairs,East,Corporate,Houston,9,0.2,1908.88,-20.61
+ORD-10419,2025-08-06,Office Supplies,Paper,West,Corporate,Dallas,4,0.0,387.48,50.63
+ORD-10400,2025-08-07,Office Supplies,Binders,West,Home Office,Atlanta,3,0.1,177.64,6.67
+ORD-10215,2025-08-10,Office Supplies,Storage,South,Home Office,Los Angeles,7,0.2,454.66,47.26
+ORD-10102,2025-08-12,Office Supplies,Art,Central,Home Office,Los Angeles,8,0.0,359.98,62.46
+ORD-10299,2025-08-14,Office Supplies,Paper,East,Home Office,Boston,4,0.1,382.49,41.1
+ORD-10177,2025-08-15,Office Supplies,Paper,Central,Home Office,Atlanta,4,0.0,127.5,28.96
+ORD-10481,2025-08-15,Office Supplies,Binders,East,Corporate,Chicago,4,0.05,235.13,49.94
+ORD-10333,2025-08-16,Technology,Computers,West,Corporate,Boston,4,0.15,894.93,82.14
+ORD-10216,2025-08-21,Technology,Accessories,East,Corporate,Dallas,6,0.1,875.66,50.87
+ORD-10476,2025-08-24,Office Supplies,Art,East,Corporate,Seattle,9,0.05,573.12,89.33
+ORD-10049,2025-08-24,Furniture,Bookcases,East,Home Office,Seattle,4,0.1,718.69,152.55
+ORD-10134,2025-08-26,Furniture,Bookcases,Central,Consumer,Chicago,9,0.0,2057.18,306.22
+ORD-10019,2025-08-26,Furniture,Bookcases,Central,Corporate,Chicago,6,0.0,559.6,33.27
+ORD-10372,2025-08-30,Technology,Computers,South,Consumer,Houston,4,0.1,345.42,19.46
+ORD-10133,2025-08-31,Technology,Computers,East,Consumer,Dallas,7,0.0,3003.06,280.13
+ORD-10224,2025-09-01,Furniture,Chairs,East,Consumer,Chicago,3,0.0,606.8,81.42
+ORD-10454,2025-09-01,Office Supplies,Binders,West,Corporate,Seattle,1,0.05,39.88,4.81
+ORD-10202,2025-09-01,Technology,Computers,West,Home Office,Atlanta,6,0.15,1898.25,232.68
+ORD-10291,2025-09-04,Technology,Computers,West,Corporate,Boston,1,0.0,160.98,37.27
+ORD-10028,2025-09-04,Furniture,Bookcases,South,Home Office,Boston,7,0.1,1186.82,244.06
+ORD-10339,2025-09-06,Furniture,Chairs,West,Corporate,Atlanta,4,0.15,584.06,-18.92
+ORD-10008,2025-09-07,Office Supplies,Art,East,Home Office,Dallas,4,0.3,148.28,15.94
+ORD-10277,2025-09-07,Office Supplies,Binders,East,Home Office,Los Angeles,4,0.0,225.15,64.77
+ORD-10011,2025-09-07,Technology,Phones,West,Consumer,Seattle,2,0.1,683.53,20.17
+ORD-10456,2025-09-08,Furniture,Chairs,East,Home Office,New York,5,0.0,894.17,167.56
+ORD-10344,2025-09-11,Furniture,Tables,South,Consumer,Boston,7,0.3,976.35,153.88
+ORD-10031,2025-09-13,Office Supplies,Binders,West,Consumer,Boston,8,0.0,746.48,138.13
+ORD-10252,2025-09-14,Furniture,Tables,Central,Consumer,Los Angeles,1,0.1,185.29,7.14
+ORD-10010,2025-09-14,Office Supplies,Binders,East,Consumer,Dallas,7,0.3,575.55,43.49
+ORD-10154,2025-09-15,Furniture,Bookcases,East,Corporate,Dallas,7,0.15,1341.86,-63.53
+ORD-10217,2025-09-20,Furniture,Tables,West,Home Office,New York,1,0.2,187.15,21.67
+ORD-10326,2025-09-20,Office Supplies,Storage,Central,Home Office,Los Angeles,1,0.1,101.74,4.83
+ORD-10078,2025-09-21,Technology,Computers,South,Corporate,New York,1,0.0,200.92,58.32
+ORD-10180,2025-09-23,Technology,Computers,Central,Consumer,Los Angeles,5,0.1,993.81,200.07
+ORD-10231,2025-09-25,Office Supplies,Storage,East,Corporate,Houston,1,0.2,76.75,3.38
+ORD-10458,2025-09-26,Furniture,Bookcases,West,Consumer,Houston,1,0.05,167.29,46.5
+ORD-10057,2025-10-01,Technology,Accessories,Central,Corporate,New York,2,0.15,543.13,60.25
+ORD-10274,2025-10-02,Office Supplies,Art,East,Consumer,Seattle,3,0.2,206.95,0.55
+ORD-10114,2025-10-04,Office Supplies,Paper,South,Corporate,Atlanta,8,0.2,579.86,89.9
+ORD-10111,2025-10-05,Technology,Accessories,West,Home Office,Atlanta,4,0.05,987.6,106.53
+ORD-10221,2025-10-07,Office Supplies,Storage,Central,Home Office,New York,4,0.2,246.67,41.71
+ORD-10460,2025-10-10,Technology,Phones,Central,Corporate,Atlanta,7,0.15,1490.54,217.26
+ORD-10313,2025-10-16,Technology,Accessories,West,Consumer,Los Angeles,5,0.1,1649.38,250.76
+ORD-10420,2025-10-21,Office Supplies,Binders,Central,Consumer,Boston,1,0.2,87.34,18.33
+ORD-10037,2025-10-22,Technology,Computers,West,Corporate,Seattle,8,0.1,1266.12,103.57
+ORD-10302,2025-10-22,Furniture,Bookcases,East,Home Office,Seattle,2,0.1,217.33,50.62
+ORD-10069,2025-10-23,Technology,Phones,South,Home Office,Boston,9,0.1,764.59,108.63
+ORD-10253,2025-10-25,Office Supplies,Paper,West,Corporate,Seattle,6,0.1,653.01,120.83
+ORD-10060,2025-10-25,Furniture,Bookcases,Central,Corporate,Houston,7,0.15,949.83,233.37
+ORD-10397,2025-10-26,Office Supplies,Paper,South,Corporate,Seattle,7,0.15,599.17,34.53
+ORD-10198,2025-10-27,Office Supplies,Storage,South,Consumer,Seattle,9,0.05,988.53,249.51
+ORD-10070,2025-10-27,Office Supplies,Binders,Central,Corporate,Houston,1,0.1,55.5,10.62
+ORD-10045,2025-10-27,Technology,Phones,West,Consumer,Seattle,7,0.1,1372.02,-107.68
+ORD-10092,2025-10-31,Office Supplies,Storage,South,Home Office,New York,5,0.1,448.57,27.95
+ORD-10393,2025-10-31,Furniture,Chairs,East,Home Office,New York,8,0.05,1865.66,323.51
+ORD-10150,2025-11-03,Technology,Phones,East,Home Office,Chicago,2,0.15,403.94,-21.93
+ORD-10245,2025-11-06,Technology,Accessories,East,Corporate,Boston,4,0.1,168.69,24.9
+ORD-10212,2025-11-07,Office Supplies,Binders,West,Corporate,Houston,3,0.2,131.4,13.6
+ORD-10110,2025-11-08,Technology,Computers,East,Consumer,Los Angeles,4,0.3,689.63,149.69
+ORD-10012,2025-11-13,Office Supplies,Paper,South,Consumer,Houston,3,0.0,199.59,27.12
+ORD-10227,2025-11-15,Office Supplies,Storage,South,Home Office,Los Angeles,7,0.2,465.36,-16.47
+ORD-10329,2025-11-18,Furniture,Chairs,South,Corporate,New York,8,0.1,1428.75,158.22
+ORD-10480,2025-11-18,Furniture,Chairs,South,Home Office,Seattle,6,0.1,1073.98,194.55
+ORD-10436,2025-11-19,Office Supplies,Storage,West,Corporate,Houston,2,0.15,136.23,21.59
+ORD-10388,2025-11-19,Technology,Computers,East,Consumer,Houston,8,0.1,2262.41,439.5
+ORD-10076,2025-11-19,Office Supplies,Binders,South,Corporate,Atlanta,6,0.15,621.28,103.51
+ORD-10443,2025-11-20,Furniture,Tables,South,Corporate,Dallas,4,0.3,659.98,-16.83
+ORD-10237,2025-11-23,Technology,Phones,South,Corporate,Chicago,9,0.05,1782.37,313.3
+ORD-10378,2025-11-27,Technology,Computers,Central,Consumer,Seattle,8,0.0,2994.9,567.74
+ORD-10489,2025-11-28,Office Supplies,Art,West,Home Office,Chicago,4,0.1,369.66,29.52
+ORD-10158,2025-11-30,Office Supplies,Storage,Central,Home Office,Chicago,8,0.1,716.63,42.54
+ORD-10082,2025-12-01,Office Supplies,Art,South,Consumer,Boston,9,0.0,673.84,136.27
+ORD-10230,2025-12-02,Office Supplies,Storage,South,Consumer,Boston,4,0.05,243.87,27.8
+ORD-10236,2025-12-05,Office Supplies,Art,West,Corporate,Atlanta,4,0.2,158.15,16.73
+ORD-10399,2025-12-05,Office Supplies,Binders,South,Corporate,Chicago,7,0.15,407.59,2.6
+ORD-10164,2025-12-07,Furniture,Chairs,West,Consumer,Atlanta,5,0.1,894.44,65.94
+ORD-10161,2025-12-09,Furniture,Bookcases,Central,Corporate,Seattle,1,0.15,108.32,-0.39
+ORD-10307,2025-12-10,Furniture,Bookcases,West,Consumer,New York,7,0.15,1469.88,-176.35
+ORD-10407,2025-12-10,Furniture,Chairs,South,Corporate,Atlanta,1,0.05,193.31,29.53
+ORD-10063,2025-12-10,Office Supplies,Binders,West,Consumer,Seattle,1,0.0,83.69,7.51
+ORD-10416,2025-12-11,Furniture,Tables,Central,Corporate,Houston,2,0.1,280.6,11.85
+ORD-10320,2025-12-11,Technology,Computers,South,Corporate,New York,9,0.05,1633.98,136.24
+ORD-10271,2025-12-13,Office Supplies,Art,South,Consumer,New York,9,0.0,833.07,202.06
+ORD-10178,2025-12-14,Furniture,Tables,South,Home Office,New York,6,0.15,1327.65,39.82
+ORD-10184,2025-12-21,Office Supplies,Binders,East,Home Office,New York,4,0.1,218.17,21.66
+ORD-10357,2025-12-22,Technology,Computers,South,Home Office,Houston,6,0.2,682.78,106.42
+ORD-10089,2025-12-23,Office Supplies,Paper,East,Consumer,Atlanta,6,0.1,376.59,5.44
+ORD-10026,2025-12-26,Office Supplies,Binders,West,Consumer,Boston,8,0.1,474.28,13.09
+ORD-10182,2025-12-27,Technology,Computers,South,Home Office,Los Angeles,3,0.1,106.26,21.89
+ORD-10331,2025-12-27,Furniture,Tables,West,Corporate,Seattle,9,0.05,1502.91,1.42
+ORD-10203,2025-12-27,Technology,Accessories,Central,Home Office,Los Angeles,3,0.15,971.97,109.68
+ORD-10304,2025-12-27,Office Supplies,Storage,Central,Corporate,Dallas,6,0.1,519.25,59.29
+ORD-10435,2025-12-27,Technology,Accessories,Central,Consumer,Seattle,3,0.1,626.66,137.35
+ORD-10222,2025-12-31,Furniture,Tables,West,Consumer,New York,2,0.15,389.51,51.78
