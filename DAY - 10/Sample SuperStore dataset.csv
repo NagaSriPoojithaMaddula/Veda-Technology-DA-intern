@@ -1,0 +1,51 @@
+Order ID,Order Date,Product ID,Category,Product Name,Quantity,Sales
+ORD-001,2026-09-01,P001,Technology,Laptop,2,1200.0
+ORD-002,2026-09-01,P002,Technology,Wireless Mouse,5,125.0
+ORD-003,2026-09-02,P003,Technology,Keyboard,3,90.0
+ORD-004,2026-09-02,P004,Technology,Monitor,2,500.0
+ORD-005,2026-09-03,P005,Office Supplies,Notebook,10,80.0
+ORD-006,2026-09-03,P006,Office Supplies,Ballpoint Pen,20,40.0
+ORD-007,2026-09-04,P007,Office Supplies,Stapler,4,60.0
+ORD-008,2026-09-04,P008,Office Supplies,Printer Paper,8,64.0
+ORD-009,2026-09-05,P009,Furniture,Office Chair,2,360.0
+ORD-010,2026-09-05,P010,Furniture,Office Desk,1,450.0
+ORD-011,2026-09-06,P011,Furniture,Bookshelf,2,240.0
+ORD-012,2026-09-06,P012,Furniture,Filing Cabinet,2,300.0
+ORD-013,2026-09-07,P001,Technology,Laptop,1,600.0
+ORD-014,2026-09-07,P002,Technology,Wireless Mouse,8,200.0
+ORD-015,2026-09-08,P003,Technology,Keyboard,5,150.0
+ORD-016,2026-09-08,P004,Technology,Monitor,3,750.0
+ORD-017,2026-09-09,P005,Office Supplies,Notebook,15,120.0
+ORD-018,2026-09-09,P006,Office Supplies,Ballpoint Pen,30,60.0
+ORD-019,2026-09-10,P007,Office Supplies,Stapler,6,90.0
+ORD-020,2026-09-10,P008,Office Supplies,Printer Paper,12,96.0
+ORD-021,2026-09-11,P009,Furniture,Office Chair,3,540.0
+ORD-022,2026-09-11,P010,Furniture,Office Desk,2,900.0
+ORD-023,2026-09-12,P011,Furniture,Bookshelf,3,360.0
+ORD-024,2026-09-12,P012,Furniture,Filing Cabinet,4,600.0
+ORD-025,2026-09-13,P013,Technology,Tablet,2,700.0
+ORD-026,2026-09-13,P014,Technology,Headphones,6,300.0
+ORD-027,2026-09-14,P015,Technology,USB Drive,15,225.0
+ORD-028,2026-09-14,P001,Technology,Laptop,2,1200.0
+ORD-029,2026-09-15,P005,Office Supplies,Notebook,20,160.0
+ORD-030,2026-09-15,P009,Furniture,Office Chair,4,720.0
+ORD-031,2026-09-16,P002,Technology,Wireless Mouse,10,250.0
+ORD-032,2026-09-16,P003,Technology,Keyboard,8,240.0
+ORD-033,2026-09-17,P004,Technology,Monitor,4,1000.0
+ORD-034,2026-09-17,P006,Office Supplies,Ballpoint Pen,50,100.0
+ORD-035,2026-09-18,P007,Office Supplies,Stapler,10,150.0
+ORD-036,2026-09-18,P008,Office Supplies,Printer Paper,20,160.0
+ORD-037,2026-09-19,P010,Furniture,Office Desk,3,1350.0
+ORD-038,2026-09-19,P011,Furniture,Bookshelf,4,480.0
+ORD-039,2026-09-20,P012,Furniture,Filing Cabinet,3,450.0
+ORD-040,2026-09-20,P013,Technology,Tablet,3,1050.0
+ORD-041,2026-09-21,P014,Technology,Headphones,10,500.0
+ORD-042,2026-09-21,P015,Technology,USB Drive,25,375.0
+ORD-043,2026-09-22,P001,Technology,Laptop,1,600.0
+ORD-044,2026-09-22,P004,Technology,Monitor,2,500.0
+ORD-045,2026-09-23,P005,Office Supplies,Notebook,25,200.0
+ORD-046,2026-09-23,P008,Office Supplies,Printer Paper,30,240.0
+ORD-047,2026-09-24,P009,Furniture,Office Chair,5,900.0
+ORD-048,2026-09-24,P010,Furniture,Office Desk,2,900.0
+ORD-049,2026-09-25,P013,Technology,Tablet,4,1400.0
+ORD-050,2026-09-25,P014,Technology,Headphones,12,600.0
