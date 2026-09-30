@@ -172,9 +172,6 @@ Converting business questions into data queries
 Presenting analytical results clearly
 🚀 Skills Demonstrated
 
-Data Analytics:
-Data Cleaning · Data Filtering · Data Sorting · Data Analysis
-
 Excel:
 Excel Functions · Sort & Filter · Pivot Tables · Charts
 
