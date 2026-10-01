@@ -98,6 +98,7 @@ Missing values were identified using:
 missing_count = df.isnull().sum()
 
 This calculates the number of null values present in each column.
+
 4. Create Missing Value Summary
 A structured summary was created containing:
 - Column name
@@ -109,11 +110,9 @@ missing_summary = pd.DataFrame({    "Column": df.columns,    "Total rows": len(d
 Only columns containing missing values were retained:
 missing_summary = missing_summary[    missing_summary["Missing Count"] > 0]
 
-
 5. Identify Rows Containing Missing Values
 Rows containing at least one missing value were identified using:
 missing_rows = df[df.isnull().any(axis=1)]
-
 
 The affected records were then inspected to understand where missing data occurs.
 6. Export the Missing Value Summary
@@ -122,7 +121,6 @@ missing_value_summary.csv
 
 using:
 missing_summary.to_csv(    "missing_value_summary.csv",    index=False)
-
 
 7. Visualize Missing Values
 A bar chart was created using Matplotlib to show the number of missing values in each affected column.
@@ -156,6 +154,7 @@ Therefore, missing values were not automatically:
 - Imputed
 - Modified
 Any future treatment should be based on the nature of the variable, the proportion of missing data, and the requirements of the analysis.
+
 Output
 Missing Value Summary
 The analysis generates:
@@ -165,8 +164,8 @@ This file contains the columns with missing values along with their missing-valu
 Visualization
 The project generates:
 Final Output.png
-
 The chart provides a visual comparison of missing values across the affected columns.
+
 Skills Demonstrated
 - Python Programming
 - Pandas
@@ -179,9 +178,12 @@ Skills Demonstrated
 - CSV File Handling
 - Data Visualization
 - Basic Exploratory Data Analysis
+
+
 ##Conclusion
 This project demonstrates a structured approach to identifying and analyzing missing values using Python.
 The analysis provides an initial understanding of the quality and completeness of the Titanic dataset. Identifying missing data before performing further analysis is an important step in the data analytics workflow, as it helps determine the appropriate strategy for subsequent data-cleaning and preprocessing activities.
+
 Author
 Naga Sri Poojitha Maddula
 Data Analytics Intern
