@@ -76,8 +76,8 @@ missing_value_summary.csv	Generated summary of missing values
 Final Output.png	Visualization of missing values by column
 README.md	Project documentation
 
+**Methodology**
 
-Methodology
 1. Load the Dataset
 The Titanic dataset was loaded using Pandas.
 import pandas as pd
@@ -135,10 +135,9 @@ Column	Observation
 Age	Contains missing passenger age records
 Cabin	Contains a significant number of missing records
 Embarked	Contains a small number of missing records
-
-
 The visualization shows that the Cabin column has the highest number of missing values, followed by Age, while Embarked has comparatively fewer missing values.
-Key Findings
+
+**Key Findings**
 - Missing values were successfully identified using Pandas.
 - Missing data is distributed unevenly across the dataset.
 - The Cabin column contains the highest number of missing values.
@@ -148,6 +147,7 @@ Key Findings
 - A separate CSV file was generated to summarize the missing values.
 - A bar chart was created to provide a visual representation of the missing-data distribution.
 - No missing values were removed or modified during this task.
+
 Data Handling Approach
 This task focuses specifically on missing-value identification, not missing-value treatment.
 Therefore, missing values were not automatically:
@@ -179,9 +179,9 @@ Skills Demonstrated
 - CSV File Handling
 - Data Visualization
 - Basic Exploratory Data Analysis
-Conclusion
+**Conclusion**
 This project demonstrates a structured approach to identifying and analyzing missing values using Python.
 The analysis provides an initial understanding of the quality and completeness of the Titanic dataset. Identifying missing data before performing further analysis is an important step in the data analytics workflow, as it helps determine the appropriate strategy for subsequent data-cleaning and preprocessing activities.
-Author
+**Author**
 Naga Sri Poojitha Maddula
 Data Analytics Intern
