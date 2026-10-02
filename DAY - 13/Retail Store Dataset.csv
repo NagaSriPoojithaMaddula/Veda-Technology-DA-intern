@@ -1,0 +1,301 @@
+Record_No,Order_ID,Order_Date,Customer_Name,Product_ID,Product,Category,City,Segment,Quantity,Unit_Price,Discount,Sales,Payment_Mode
+1,ORD0204,07-02-2026,Kiran,P001,Laptop,Technology,Nellore,Corporate,3,55000,0.2,132000,UPI
+2,ORD0267,04-05-2026,Divya,P009,Tablet,Technology,Guntur,Corporate,1,18000,0.1,16200,Cash
+3,ORD0153,14-09-2026,Manoj,P015,Power Bank,Accessories,Bengaluru,Consumer,3,1800,0.2,4320,Debit Card
+4,ORD0010,09-07-2026,Sneha,P008,Headphones,Accessories,Chennai,Home Office,3,2200,0.05,6270,Debit Card
+5,ORD0234,20-06-2026,Rahul,P006,Office Chair,Furniture,Vijayawada,Corporate,2,6500,0,13000,Net Banking
+6,ORD0227,29-08-2026,Divya,P005,Printer,Technology,Vijayawada,Consumer,4,12500,0.05,47500,UPI
+7,ORD0197,12-08-2026,Harini,P014,Desk Lamp,Furniture,Guntur,Consumer,3,1500,0,4500,Cash
+8,ORD0110,06-06-2026,Pooja,P005,Printer,Technology,Vijayawada,Home Office,5,12500,0.15,53125,UPI
+9,ORD0006,26-06-2026,Pooja,P007,USB Cable,Accessories,Bengaluru,Consumer,1,300,0.1,270,Cash
+10,ORD0176,23-06-2026,Harini,P015,Power Bank,Accessories,Nellore,Corporate,2,1800,0.15,3060,Cash
+11,ORD0238,02-07-2026,Harini,P013,External Hard Drive,Technology,Vijayawada,Home Office,2,4800,0.1,8640,Debit Card
+12,ORD0058,29-06-2026,Vikram,P005,Printer,Technology,Tirupati,Home Office,1,12500,0.1,11250,Net Banking
+13,ORD0219,08-06-2026,Sanjay,P004,Monitor,Technology,Nellore,Consumer,5,14500,0.05,68875,Debit Card
+14,ORD0046,23-02-2026,Manoj,P001,Laptop,Technology,Hyderabad,Corporate,5,55000,0.1,247500,UPI
+15,ORD0183,14-01-2026,Pooja,P013,External Hard Drive,Technology,Bengaluru,Consumer,4,4800,0.2,15360,Credit Card
+16,ORD0222,22-02-2026,Keerthi,P011,Bookshelf,Furniture,Guntur,Corporate,4,7200,0.1,25920,UPI
+17,ORD0058,29-06-2026,Vikram,P005,Printer,Technology,Tirupati,Home Office,1,12500,0.1,11250,Net Banking
+18,ORD0212,08-06-2026,Vikram,P010,Office Desk,Furniture,Tirupati,Consumer,2,9000,0.1,16200,Net Banking
+19,ORD0149,27-05-2026,Sanjay,P015,Power Bank,Accessories,Chennai,Home Office,5,1800,0.15,7650,Debit Card
+20,ORD0166,30-04-2026,Sneha,P004,Monitor,Technology,Hyderabad,Home Office,5,14500,0.05,68875,UPI
+21,ORD0079,03-08-2026,Rohit,P006,Office Chair,Furniture,Chennai,Corporate,3,6500,0.15,16575,Credit Card
+22,ORD0114,12-04-2026,Arjun,P002,Mouse,Accessories,Guntur,Home Office,2,750,0.1,1350,Credit Card
+23,ORD0250,27-05-2026,Keerthi,P012,Webcam,Technology,Nellore,Consumer,4,3200,0.05,12160,UPI
+24,ORD0251,30-03-2026,Manoj,P003,Keyboard,Accessories,Nellore,Consumer,1,1200,0.15,1020,Debit Card
+25,ORD0105,06-03-2026,Vikram,P001,Laptop,Technology,Nellore,Consumer,5,55000,0.1,247500,UPI
+26,ORD0043,05-01-2026,Divya,P008,Headphones,Accessories,Guntur,Consumer,3,2200,0,6600,Net Banking
+27,ORD0282,27-04-2026,Keerthi,P005,Printer,Technology,Vijayawada,Home Office,5,12500,0.2,50000,Cash
+28,ORD0146,22-08-2026,Harini,P011,Bookshelf,Furniture,Bengaluru,Consumer,4,7200,0.1,25920,Cash
+29,ORD0158,02-02-2026,Vikram,P006,Office Chair,Furniture,Nellore,Home Office,5,6500,0.05,30875,Debit Card
+30,ORD0239,12-08-2026,Manoj,P005,Printer,Technology,Tirupati,Home Office,1,12500,0.1,11250,Cash
+31,ORD0018,06-01-2026,Vikram,P009,Tablet,Technology,Guntur,Home Office,3,18000,0.2,43200,Net Banking
+32,ORD0165,05-05-2026,Rahul,P001,Laptop,Technology,Chennai,Consumer,1,55000,0.1,49500,Net Banking
+33,ORD0034,15-08-2026,Sanjay,P008,Headphones,Accessories,Guntur,Consumer,2,2200,0,4400,Net Banking
+34,ORD0025,05-08-2026,Priya,P005,Printer,Technology,Chennai,Home Office,5,12500,0.2,50000,Debit Card
+35,ORD0216,27-09-2026,Aarav,P005,Printer,Technology,Visakhapatnam,Home Office,1,12500,0.2,10000,Credit Card
+36,ORD0120,23-09-2026,Vikram,P013,External Hard Drive,Technology,Nellore,Corporate,2,4800,0.15,8160,Credit Card
+37,ORD0008,09-04-2026,Keerthi,P015,Power Bank,Accessories,Guntur,Consumer,3,1800,0.2,4320,Credit Card
+38,ORD0091,07-01-2026,Harini,P002,Mouse,Accessories,Tirupati,Corporate,5,750,0.1,3375,UPI
+39,ORD0047,21-03-2026,Kiran,P015,Power Bank,Accessories,Bengaluru,Home Office,1,1800,0.2,1440,Credit Card
+40,ORD0074,24-09-2026,Divya,P013,External Hard Drive,Technology,Chennai,Corporate,2,4800,0.1,8640,Cash
+41,ORD0094,14-02-2026,Kiran,P005,Printer,Technology,Nellore,Consumer,3,12500,0.05,35625,Cash
+42,ORD0077,19-06-2026,Rohit,P002,Mouse,Accessories,Nellore,Corporate,4,750,0.15,2550,UPI
+43,ORD0019,27-02-2026,Kiran,P013,External Hard Drive,Technology,Tirupati,Consumer,3,4800,0.1,12960,Cash
+44,ORD0061,12-08-2026,Aarav,P004,Monitor,Technology,Chennai,Corporate,3,14500,0,43500,Cash
+45,ORD0078,11-01-2026,Harini,P004,Monitor,Technology,Tirupati,Corporate,4,14500,0.15,49300,UPI
+46,ORD0064,31-03-2026,Pooja,P004,Monitor,Technology,Bengaluru,Corporate,4,14500,0.15,49300,Net Banking
+47,ORD0235,03-09-2026,Vikram,P006,Office Chair,Furniture,Hyderabad,Consumer,2,6500,0.15,11050,UPI
+48,ORD0230,09-01-2026,Vikram,P014,Desk Lamp,Furniture,Chennai,Home Office,4,1500,0.2,4800,Credit Card
+49,ORD0112,22-03-2026,Aarav,P003,Keyboard,Accessories,Tirupati,Corporate,5,1200,0,6000,Net Banking
+50,ORD0232,27-09-2026,Rohit,P009,Tablet,Technology,Vijayawada,Corporate,3,18000,0,54000,Cash
+51,ORD0181,21-03-2026,Vikram,P010,Office Desk,Furniture,Nellore,Consumer,5,9000,0.05,42750,UPI
+52,ORD0145,07-02-2026,Divya,P011,Bookshelf,Furniture,Visakhapatnam,Home Office,5,7200,0.05,34200,Debit Card
+53,ORD0240,06-04-2026,Divya,P015,Power Bank,Accessories,Nellore,Corporate,4,1800,0.1,6480,Net Banking
+54,ORD0076,16-07-2026,Keerthi,P003,Keyboard,Accessories,Hyderabad,Home Office,2,1200,0.05,2280,Credit Card
+55,ORD0192,29-05-2026,Sneha,P013,External Hard Drive,Technology,Guntur,Consumer,2,4800,0.1,8640,Cash
+56,ORD0279,03-06-2026,Pooja,P006,Office Chair,Furniture,Visakhapatnam,Home Office,2,6500,0.15,11050,Net Banking
+57,ORD0098,01-09-2026,Vikram,P008,Headphones,Accessories,Nellore,Corporate,5,2200,0.05,10450,UPI
+58,ORD0093,05-09-2026,Divya,P011,Bookshelf,Furniture,Tirupati,Home Office,3,7200,0.2,17280,Net Banking
+59,ORD0193,08-03-2026,Arjun,P012,Webcam,Technology,Chennai,Home Office,4,3200,0.05,12160,Net Banking
+60,ORD0026,22-09-2026,Divya,P007,USB Cable,Accessories,Guntur,Consumer,3,300,0.15,765,Credit Card
+61,ORD0233,10-05-2026,Keerthi,P001,Laptop,Technology,Vijayawada,Corporate,4,55000,0.1,198000,UPI
+62,ORD0060,10-06-2026,Arjun,P010,Office Desk,Furniture,Guntur,Corporate,4,9000,0.1,32400,Net Banking
+63,ORD0007,10-02-2026,Rohit,P009,Tablet,Technology,Bengaluru,Home Office,1,18000,0.15,15300,Net Banking
+64,ORD0186,21-08-2026,Sneha,P004,Monitor,Technology,Hyderabad,Corporate,4,14500,0.15,49300,Debit Card
+65,ORD0174,16-06-2026,Arjun,P011,Bookshelf,Furniture,Bengaluru,Corporate,5,7200,0.2,28800,Net Banking
+66,ORD0031,05-08-2026,Arjun,P002,Mouse,Accessories,Nellore,Home Office,4,750,0.1,2700,UPI
+67,ORD0023,30-01-2026,Priya,P015,Power Bank,Accessories,Guntur,Consumer,3,1800,0.05,5130,Cash
+68,ORD0257,26-06-2026,Rahul,P008,Headphones,Accessories,Hyderabad,Consumer,4,2200,0.2,7040,Cash
+69,ORD0057,13-01-2026,Vikram,P014,Desk Lamp,Furniture,Chennai,Corporate,2,1500,0.05,2850,Debit Card
+70,ORD0187,13-02-2026,Manoj,P012,Webcam,Technology,Vijayawada,Consumer,3,3200,0.2,7680,Credit Card
+71,ORD0109,26-04-2026,Sanjay,P002,Mouse,Accessories,Tirupati,Corporate,5,750,0.15,3187.5,Cash
+72,ORD0127,23-03-2026,Kiran,P011,Bookshelf,Furniture,Vijayawada,Home Office,5,7200,0.05,34200,Cash
+73,ORD0231,30-06-2026,Priya,P005,Printer,Technology,Tirupati,Consumer,4,12500,0,50000,UPI
+74,ORD0194,23-07-2026,Harini,P014,Desk Lamp,Furniture,Vijayawada,Corporate,3,1500,0,4500,UPI
+75,ORD0130,18-09-2026,Keerthi,P003,Keyboard,Accessories,Hyderabad,Consumer,4,1200,0.05,4560,Debit Card
+76,ORD0283,14-07-2026,Rahul,P003,Keyboard,Accessories,Chennai,Consumer,5,1200,0.2,4800,Net Banking
+77,ORD0083,19-04-2026,Divya,P005,Printer,Technology,Visakhapatnam,Corporate,4,12500,0.1,45000,Cash
+78,ORD0085,05-02-2026,Sanjay,P001,Laptop,Technology,Vijayawada,Consumer,3,55000,0.05,156750,Credit Card
+79,ORD0067,26-05-2026,Rohit,P013,External Hard Drive,Technology,Visakhapatnam,Consumer,2,4800,0,9600,Credit Card
+80,ORD0045,13-08-2026,Harini,P006,Office Chair,Furniture,Bengaluru,Home Office,3,6500,0.05,18525,Net Banking
+81,ORD0164,21-08-2026,Ananya,P005,Printer,Technology,Chennai,Home Office,2,12500,0,25000,Net Banking
+82,ORD0155,07-07-2026,Ananya,P003,Keyboard,Accessories,Tirupati,Consumer,2,1200,0.15,2040,Debit Card
+83,ORD0020,02-04-2026,Rohit,P001,Laptop,Technology,Guntur,Home Office,3,55000,0.2,132000,Debit Card
+84,ORD0125,13-09-2026,Vikram,P004,Monitor,Technology,Nellore,Consumer,5,14500,0.1,65250,Credit Card
+85,ORD0080,15-01-2026,Arjun,P005,Printer,Technology,Visakhapatnam,Home Office,4,12500,0.15,42500,Cash
+86,ORD0115,14-03-2026,Ananya,P011,Bookshelf,Furniture,Vijayawada,Consumer,2,7200,0.1,12960,Debit Card
+87,ORD0119,11-01-2026,Sanjay,P004,Monitor,Technology,Bengaluru,Home Office,5,14500,0.2,58000,UPI
+88,ORD0073,23-03-2026,Keerthi,P007,USB Cable,Accessories,Nellore,Corporate,5,300,0.15,1275,Debit Card
+89,ORD0016,18-09-2026,Divya,P006,Office Chair,Furniture,Guntur,Consumer,2,6500,0.05,12350,UPI
+90,ORD0011,29-03-2026,Rohit,P012,Webcam,Technology,Chennai,Consumer,1,3200,0.2,2560,Cash
+91,ORD0195,08-08-2026,Pooja,P008,Headphones,Accessories,Tirupati,Home Office,1,2200,0.1,1980,Cash
+92,ORD0102,09-04-2026,Priya,P012,Webcam,Technology,Nellore,Corporate,5,3200,0.05,15200,Net Banking
+93,ORD0069,22-08-2026,Arjun,P008,Headphones,Accessories,Chennai,Home Office,5,2200,0,11000,Cash
+94,ORD0225,01-05-2026,Arjun,P007,USB Cable,Accessories,Guntur,Corporate,5,300,0.1,1350,Credit Card
+95,ORD0038,01-02-2026,Keerthi,P005,Printer,Technology,Visakhapatnam,Consumer,2,12500,0,25000,UPI
+96,ORD0017,02-02-2026,Arjun,P003,Keyboard,Accessories,Tirupati,Home Office,2,1200,0.15,2040,Cash
+97,ORD0180,27-01-2026,Kiran,P007,USB Cable,Accessories,Bengaluru,Corporate,3,300,0.15,765,UPI
+98,ORD0148,22-07-2026,Kiran,P012,Webcam,Technology,Vijayawada,Home Office,3,3200,0,9600,UPI
+99,ORD0275,24-05-2026,Harini,P009,Tablet,Technology,Guntur,Consumer,4,18000,0.2,57600,UPI
+100,ORD0068,12-04-2026,Rahul,P011,Bookshelf,Furniture,Vijayawada,Consumer,3,7200,0.05,20520,Credit Card
+101,ORD0229,03-05-2026,Arjun,P005,Printer,Technology,Nellore,Consumer,1,12500,0,12500,UPI
+102,ORD0070,17-03-2026,Vikram,P008,Headphones,Accessories,Vijayawada,Consumer,4,2200,0.05,8360,Cash
+103,ORD0032,26-07-2026,Keerthi,P011,Bookshelf,Furniture,Visakhapatnam,Consumer,1,7200,0,7200,Credit Card
+104,ORD0184,29-06-2026,Aarav,P005,Printer,Technology,Hyderabad,Consumer,3,12500,0.1,33750,Net Banking
+105,ORD0266,26-06-2026,Arjun,P003,Keyboard,Accessories,Hyderabad,Corporate,3,1200,0.1,3240,Net Banking
+106,ORD0226,21-06-2026,Sanjay,P001,Laptop,Technology,Hyderabad,Consumer,3,55000,0,165000,UPI
+107,ORD0141,03-07-2026,Sneha,P006,Office Chair,Furniture,Tirupati,Consumer,1,6500,0.1,5850,Credit Card
+108,ORD0019,27-02-2026,Kiran,P013,External Hard Drive,Technology,Tirupati,Consumer,3,4800,0.1,12960,Cash
+109,ORD0182,28-02-2026,Sanjay,P006,Office Chair,Furniture,Bengaluru,Home Office,5,6500,0.1,29250,Credit Card
+110,ORD0097,08-04-2026,Ananya,P009,Tablet,Technology,Chennai,Home Office,1,18000,0.2,14400,Cash
+111,ORD0133,13-07-2026,Divya,P008,Headphones,Accessories,Visakhapatnam,Consumer,3,2200,0.1,5940,Credit Card
+112,ORD0263,16-01-2026,Divya,P013,External Hard Drive,Technology,Bengaluru,Home Office,5,4800,0.15,20400,Debit Card
+113,ORD0087,12-05-2026,Sanjay,P010,Office Desk,Furniture,Visakhapatnam,Consumer,2,9000,0.15,15300,Net Banking
+114,ORD0249,23-09-2026,Arjun,P001,Laptop,Technology,Guntur,Corporate,2,55000,0.15,93500,Debit Card
+115,ORD0246,05-07-2026,Arjun,P002,Mouse,Accessories,Vijayawada,Home Office,2,750,0.1,1350,Credit Card
+116,ORD0117,14-09-2026,Rohit,P012,Webcam,Technology,Nellore,Corporate,4,3200,0.1,11520,UPI
+117,ORD0147,02-05-2026,Arjun,P014,Desk Lamp,Furniture,Visakhapatnam,Home Office,4,1500,0,6000,Debit Card
+118,ORD0097,08-04-2026,Ananya,P009,Tablet,Technology,Chennai,Home Office,1,18000,0.2,14400,Cash
+119,ORD0198,10-02-2026,Arjun,P010,Office Desk,Furniture,Bengaluru,Home Office,4,9000,0.2,28800,Debit Card
+120,ORD0207,01-02-2026,Divya,P008,Headphones,Accessories,Guntur,Corporate,5,2200,0.05,10450,UPI
+121,ORD0056,24-04-2026,Priya,P007,USB Cable,Accessories,Nellore,Corporate,1,300,0.15,255,Debit Card
+122,ORD0173,17-03-2026,Ananya,P002,Mouse,Accessories,Hyderabad,Corporate,1,750,0.1,675,Net Banking
+123,ORD0185,14-03-2026,Keerthi,P011,Bookshelf,Furniture,Vijayawada,Consumer,4,7200,0,28800,Net Banking
+124,ORD0168,02-05-2026,Pooja,P003,Keyboard,Accessories,Visakhapatnam,Consumer,1,1200,0.1,1080,Credit Card
+125,ORD0140,16-08-2026,Rahul,P007,USB Cable,Accessories,Bengaluru,Consumer,1,300,0,300,UPI
+126,ORD0254,04-07-2026,Rohit,P013,External Hard Drive,Technology,Visakhapatnam,Corporate,4,4800,0,19200,Net Banking
+127,ORD0039,22-03-2026,Aarav,P010,Office Desk,Furniture,Guntur,Consumer,4,9000,0.2,28800,UPI
+128,ORD0126,28-05-2026,Divya,P005,Printer,Technology,Nellore,Consumer,5,12500,0.05,59375,UPI
+129,ORD0196,11-01-2026,Sneha,P005,Printer,Technology,Hyderabad,Home Office,1,12500,0.15,10625,Cash
+130,ORD0284,10-01-2026,Divya,P012,Webcam,Technology,Visakhapatnam,Corporate,1,3200,0.05,3040,Credit Card
+131,ORD0138,18-06-2026,Harini,P012,Webcam,Technology,Tirupati,Corporate,4,3200,0,12800,Cash
+132,ORD0113,29-04-2026,Kiran,P008,Headphones,Accessories,Bengaluru,Home Office,3,2200,0,6600,Cash
+133,ORD0169,04-08-2026,Rohit,P005,Printer,Technology,Guntur,Home Office,1,12500,0.05,11875,UPI
+134,ORD0118,15-06-2026,Pooja,P010,Office Desk,Furniture,Bengaluru,Consumer,1,9000,0.15,7650,UPI
+135,ORD0278,22-08-2026,Rahul,P013,External Hard Drive,Technology,Hyderabad,Corporate,4,4800,0.2,15360,Net Banking
+136,ORD0272,05-01-2026,Harini,P010,Office Desk,Furniture,Guntur,Corporate,4,9000,0.1,32400,Credit Card
+137,ORD0156,08-07-2026,Vikram,P009,Tablet,Technology,Bengaluru,Home Office,1,18000,0.15,15300,Cash
+138,ORD0177,07-08-2026,Sneha,P012,Webcam,Technology,Bengaluru,Corporate,1,3200,0.1,2880,Credit Card
+139,ORD0179,31-01-2026,Pooja,P002,Mouse,Accessories,Visakhapatnam,Home Office,3,750,0.05,2137.5,UPI
+140,ORD0003,14-01-2026,Rohit,P004,Monitor,Technology,Chennai,Home Office,5,14500,0.2,58000,Net Banking
+141,ORD0116,13-08-2026,Ananya,P010,Office Desk,Furniture,Nellore,Home Office,5,9000,0.1,40500,Debit Card
+142,ORD0144,11-05-2026,Vikram,P011,Bookshelf,Furniture,Vijayawada,Corporate,3,7200,0.15,18360,Debit Card
+143,ORD0178,16-02-2026,Harini,P011,Bookshelf,Furniture,Guntur,Consumer,4,7200,0,28800,Cash
+144,ORD0121,16-02-2026,Divya,P010,Office Desk,Furniture,Visakhapatnam,Corporate,4,9000,0.15,30600,Debit Card
+145,ORD0211,26-05-2026,Kiran,P002,Mouse,Accessories,Hyderabad,Corporate,5,750,0.15,3187.5,UPI
+146,ORD0261,20-03-2026,Rahul,P002,Mouse,Accessories,Visakhapatnam,Home Office,5,750,0.05,3562.5,UPI
+147,ORD0128,25-08-2026,Ananya,P002,Mouse,Accessories,Hyderabad,Corporate,2,750,0,1500,Debit Card
+148,ORD0075,20-05-2026,Sneha,P002,Mouse,Accessories,Visakhapatnam,Home Office,3,750,0.05,2137.5,UPI
+149,ORD0030,31-08-2026,Sanjay,P010,Office Desk,Furniture,Tirupati,Consumer,4,9000,0.05,34200,UPI
+150,ORD0084,11-02-2026,Divya,P005,Printer,Technology,Vijayawada,Home Office,4,12500,0.1,45000,Net Banking
+151,ORD0270,12-09-2026,Aarav,P008,Headphones,Accessories,Guntur,Corporate,4,2200,0.1,7920,Net Banking
+152,ORD0108,18-03-2026,Sanjay,P011,Bookshelf,Furniture,Bengaluru,Consumer,1,7200,0.05,6840,Credit Card
+153,ORD0224,28-06-2026,Manoj,P015,Power Bank,Accessories,Vijayawada,Corporate,2,1800,0.15,3060,UPI
+154,ORD0159,13-03-2026,Aarav,P011,Bookshelf,Furniture,Vijayawada,Corporate,4,7200,0,28800,Cash
+155,ORD0281,07-06-2026,Sanjay,P011,Bookshelf,Furniture,Vijayawada,Home Office,1,7200,0.15,6120,Cash
+156,ORD0247,10-07-2026,Divya,P011,Bookshelf,Furniture,Guntur,Home Office,4,7200,0.1,25920,Credit Card
+157,ORD0223,19-08-2026,Manoj,P013,External Hard Drive,Technology,Hyderabad,Corporate,2,4800,0.1,8640,UPI
+158,ORD0066,15-08-2026,Divya,P011,Bookshelf,Furniture,Chennai,Home Office,3,7200,0.15,18360,Cash
+159,ORD0199,09-02-2026,Rohit,P004,Monitor,Technology,Guntur,Home Office,3,14500,0.05,41325,Net Banking
+160,ORD0086,20-03-2026,Priya,P004,Monitor,Technology,Hyderabad,Corporate,1,14500,0.2,11600,UPI
+161,ORD0214,05-07-2026,Aarav,P002,Mouse,Accessories,Visakhapatnam,Corporate,4,750,0.2,2400,Credit Card
+162,ORD0160,11-03-2026,Arjun,P002,Mouse,Accessories,Nellore,Corporate,1,750,0.05,712.5,Net Banking
+163,ORD0013,25-07-2026,Kiran,P014,Desk Lamp,Furniture,Guntur,Consumer,1,1500,0.1,1350,Net Banking
+164,ORD0036,26-03-2026,Arjun,P004,Monitor,Technology,Vijayawada,Corporate,4,14500,0,58000,Debit Card
+165,ORD0029,06-09-2026,Priya,P009,Tablet,Technology,Hyderabad,Home Office,2,18000,0.1,32400,Net Banking
+166,ORD0143,04-05-2026,Divya,P014,Desk Lamp,Furniture,Hyderabad,Consumer,4,1500,0.2,4800,Cash
+167,ORD0285,14-09-2026,Sanjay,P007,USB Cable,Accessories,Nellore,Home Office,2,300,0.15,510,UPI
+168,ORD0255,03-02-2026,Kiran,P003,Keyboard,Accessories,Tirupati,Home Office,5,1200,0,6000,Cash
+169,ORD0171,24-09-2026,Kiran,P004,Monitor,Technology,Nellore,Home Office,5,14500,0,72500,UPI
+170,ORD0052,22-01-2026,Kiran,P003,Keyboard,Accessories,Visakhapatnam,Consumer,4,1200,0.05,4560,Debit Card
+171,ORD0096,13-05-2026,Sneha,P008,Headphones,Accessories,Bengaluru,Home Office,2,2200,0.1,3960,Debit Card
+172,ORD0209,06-07-2026,Sneha,P009,Tablet,Technology,Bengaluru,Corporate,5,18000,0.05,85500,Cash
+173,ORD0248,10-06-2026,Vikram,P009,Tablet,Technology,Bengaluru,Consumer,3,18000,0.15,45900,UPI
+174,ORD0042,16-05-2026,Arjun,P011,Bookshelf,Furniture,Hyderabad,Home Office,3,7200,0.05,20520,Debit Card
+175,ORD0090,22-01-2026,Sneha,P014,Desk Lamp,Furniture,Tirupati,Home Office,5,1500,0,7500,Debit Card
+176,ORD0245,15-03-2026,Harini,P013,External Hard Drive,Technology,Nellore,Consumer,2,4800,0,9600,Credit Card
+177,ORD0137,29-08-2026,Sanjay,P007,USB Cable,Accessories,Bengaluru,Corporate,2,300,0,600,Net Banking
+178,ORD0027,28-04-2026,Pooja,P002,Mouse,Accessories,Chennai,Consumer,3,750,0,2250,UPI
+179,ORD0110,06-06-2026,Pooja,P005,Printer,Technology,Vijayawada,Home Office,5,12500,0.15,53125,UPI
+180,ORD0142,03-04-2026,Rahul,P009,Tablet,Technology,Hyderabad,Consumer,4,18000,0.2,57600,Net Banking
+181,ORD0201,20-03-2026,Sanjay,P004,Monitor,Technology,Guntur,Consumer,2,14500,0.2,23200,Cash
+182,ORD0001,21-05-2026,Priya,P011,Bookshelf,Furniture,Chennai,Consumer,1,7200,0,7200,UPI
+183,ORD0269,10-06-2026,Priya,P004,Monitor,Technology,Hyderabad,Corporate,2,14500,0.1,26100,Net Banking
+184,ORD0273,26-07-2026,Sneha,P015,Power Bank,Accessories,Vijayawada,Corporate,3,1800,0.1,4860,UPI
+185,ORD0101,29-04-2026,Ananya,P005,Printer,Technology,Chennai,Corporate,3,12500,0.1,33750,UPI
+186,ORD0260,06-03-2026,Vikram,P004,Monitor,Technology,Bengaluru,Home Office,5,14500,0.1,65250,Net Banking
+187,ORD0256,07-02-2026,Rahul,P009,Tablet,Technology,Visakhapatnam,Home Office,4,18000,0.15,61200,UPI
+188,ORD0172,07-08-2026,Vikram,P001,Laptop,Technology,Guntur,Corporate,4,55000,0.15,187000,Cash
+189,ORD0099,27-07-2026,Keerthi,P002,Mouse,Accessories,Chennai,Corporate,3,750,0.05,2137.5,Net Banking
+190,ORD0037,05-08-2026,Keerthi,P015,Power Bank,Accessories,Nellore,Consumer,4,1800,0.1,6480,Credit Card
+191,ORD0062,10-06-2026,Vikram,P002,Mouse,Accessories,Guntur,Home Office,3,750,0.2,1800,Debit Card
+192,ORD0151,14-08-2026,Aarav,P015,Power Bank,Accessories,Visakhapatnam,Home Office,1,1800,0.1,1620,Credit Card
+193,ORD0237,23-07-2026,Harini,P006,Office Chair,Furniture,Nellore,Corporate,3,6500,0.2,15600,UPI
+194,ORD0203,29-08-2026,Divya,P003,Keyboard,Accessories,Bengaluru,Corporate,4,1200,0,4800,Net Banking
+195,ORD0243,16-08-2026,Sneha,P010,Office Desk,Furniture,Nellore,Consumer,4,9000,0.05,34200,Debit Card
+196,ORD0012,23-04-2026,Vikram,P007,USB Cable,Accessories,Visakhapatnam,Consumer,3,300,0.2,720,Credit Card
+197,ORD0169,04-08-2026,Rohit,P005,Printer,Technology,Guntur,Home Office,1,12500,0.05,11875,UPI
+198,ORD0268,26-01-2026,Kiran,P004,Monitor,Technology,Tirupati,Home Office,2,14500,0,29000,Cash
+199,ORD0028,04-02-2026,Manoj,P012,Webcam,Technology,Vijayawada,Corporate,1,3200,0.05,3040,UPI
+200,ORD0220,25-08-2026,Sanjay,P011,Bookshelf,Furniture,Bengaluru,Corporate,5,7200,0.15,30600,Net Banking
+201,ORD0005,21-04-2026,Sanjay,P006,Office Chair,Furniture,Visakhapatnam,Consumer,3,6500,0.05,18525,UPI
+202,ORD0123,21-08-2026,Ananya,P014,Desk Lamp,Furniture,Visakhapatnam,Corporate,5,1500,0,7500,Debit Card
+203,ORD0033,18-08-2026,Rahul,P004,Monitor,Technology,Tirupati,Consumer,2,14500,0.2,23200,Debit Card
+204,ORD0205,09-02-2026,Vikram,P001,Laptop,Technology,Guntur,Home Office,3,55000,0.1,148500,Net Banking
+205,ORD0163,08-07-2026,Rohit,P014,Desk Lamp,Furniture,Visakhapatnam,Consumer,3,1500,0,4500,Cash
+206,ORD0210,27-01-2026,Sanjay,P013,External Hard Drive,Technology,Visakhapatnam,Consumer,3,4800,0.2,11520,Debit Card
+207,ORD0006,26-06-2026,Pooja,P007,USB Cable,Accessories,Bengaluru,Consumer,1,300,0.1,270,Cash
+208,ORD0139,05-02-2026,Priya,P014,Desk Lamp,Furniture,Bengaluru,Consumer,5,1500,0,7500,UPI
+209,ORD0063,17-06-2026,Arjun,P009,Tablet,Technology,Bengaluru,Home Office,3,18000,0.15,45900,Credit Card
+210,ORD0136,14-08-2026,Ananya,P010,Office Desk,Furniture,Nellore,Consumer,3,9000,0,27000,Credit Card
+211,ORD0129,05-09-2026,Divya,P009,Tablet,Technology,Chennai,Corporate,3,18000,0.15,45900,Net Banking
+212,ORD0071,26-08-2026,Aarav,P004,Monitor,Technology,Chennai,Consumer,2,14500,0.2,23200,Cash
+213,ORD0009,30-04-2026,Harini,P013,External Hard Drive,Technology,Guntur,Corporate,3,4800,0,14400,Debit Card
+214,ORD0071,26-08-2026,Aarav,P004,Monitor,Technology,Chennai,Consumer,2,14500,0.2,23200,Cash
+215,ORD0265,05-09-2026,Divya,P003,Keyboard,Accessories,Chennai,Corporate,4,1200,0.15,4080,Net Banking
+216,ORD0065,27-05-2026,Priya,P014,Desk Lamp,Furniture,Tirupati,Home Office,1,1500,0.1,1350,Net Banking
+217,ORD0045,13-08-2026,Harini,P006,Office Chair,Furniture,Bengaluru,Home Office,3,6500,0.05,18525,Net Banking
+218,ORD0280,03-06-2026,Divya,P009,Tablet,Technology,Vijayawada,Corporate,4,18000,0.2,57600,Debit Card
+219,ORD0157,30-04-2026,Divya,P014,Desk Lamp,Furniture,Vijayawada,Home Office,3,1500,0,4500,Net Banking
+220,ORD0041,03-08-2026,Vikram,P001,Laptop,Technology,Visakhapatnam,Corporate,5,55000,0,275000,Credit Card
+221,ORD0124,01-01-2026,Vikram,P002,Mouse,Accessories,Nellore,Corporate,4,750,0.2,2400,UPI
+222,ORD0276,07-07-2026,Sanjay,P007,USB Cable,Accessories,Hyderabad,Consumer,3,300,0.1,810,Net Banking
+223,ORD0217,25-03-2026,Rahul,P010,Office Desk,Furniture,Hyderabad,Home Office,4,9000,0.05,34200,Cash
+224,ORD0154,23-06-2026,Sanjay,P015,Power Bank,Accessories,Guntur,Corporate,4,1800,0.1,6480,UPI
+225,ORD0024,06-03-2026,Rahul,P014,Desk Lamp,Furniture,Nellore,Home Office,1,1500,0.2,1200,Credit Card
+226,ORD0262,24-01-2026,Vikram,P014,Desk Lamp,Furniture,Bengaluru,Home Office,1,1500,0,1500,Credit Card
+227,ORD0111,16-05-2026,Vikram,P013,External Hard Drive,Technology,Guntur,Consumer,2,4800,0.05,9120,Credit Card
+228,ORD0082,08-08-2026,Rahul,P010,Office Desk,Furniture,Nellore,Consumer,1,9000,0,9000,UPI
+229,ORD0208,07-05-2026,Keerthi,P009,Tablet,Technology,Nellore,Corporate,2,18000,0,36000,Net Banking
+230,ORD0213,12-07-2026,Vikram,P012,Webcam,Technology,Visakhapatnam,Consumer,1,3200,0.1,2880,Net Banking
+231,ORD0040,26-07-2026,Ananya,P010,Office Desk,Furniture,Chennai,Home Office,1,9000,0.05,8550,Net Banking
+232,ORD0241,10-02-2026,Arjun,P005,Printer,Technology,Hyderabad,Home Office,1,12500,0.15,10625,Debit Card
+233,ORD0084,11-02-2026,Divya,P005,Printer,Technology,Vijayawada,Home Office,4,12500,0.1,45000,Net Banking
+234,ORD0259,23-09-2026,Manoj,P006,Office Chair,Furniture,Bengaluru,Consumer,2,6500,0.1,11700,Debit Card
+235,ORD0200,17-03-2026,Priya,P004,Monitor,Technology,Guntur,Consumer,3,14500,0.1,39150,Debit Card
+236,ORD0015,15-05-2026,Keerthi,P003,Keyboard,Accessories,Tirupati,Home Office,2,1200,0.2,1920,Cash
+237,ORD0048,16-05-2026,Rohit,P012,Webcam,Technology,Nellore,Corporate,3,3200,0.05,9120,UPI
+238,ORD0095,22-06-2026,Aarav,P010,Office Desk,Furniture,Nellore,Corporate,5,9000,0.15,38250,Credit Card
+239,ORD0264,02-06-2026,Divya,P008,Headphones,Accessories,Guntur,Home Office,2,2200,0.15,3740,UPI
+240,ORD0228,28-09-2026,Arjun,P005,Printer,Technology,Guntur,Corporate,2,12500,0.05,23750,Credit Card
+241,ORD0274,05-07-2026,Rohit,P010,Office Desk,Furniture,Bengaluru,Consumer,5,9000,0.05,42750,Cash
+242,ORD0202,18-08-2026,Vikram,P008,Headphones,Accessories,Visakhapatnam,Home Office,5,2200,0.2,8800,Debit Card
+243,ORD0162,09-07-2026,Priya,P007,USB Cable,Accessories,Nellore,Corporate,3,300,0,900,Credit Card
+244,ORD0044,09-03-2026,Manoj,P004,Monitor,Technology,Visakhapatnam,Consumer,5,14500,0.1,65250,Credit Card
+245,ORD0218,02-05-2026,Divya,P001,Laptop,Technology,Bengaluru,Home Office,4,55000,0.1,198000,Cash
+246,ORD0146,22-08-2026,Harini,P011,Bookshelf,Furniture,Bengaluru,Consumer,4,7200,0.1,25920,Cash
+247,ORD0191,29-01-2026,Aarav,P001,Laptop,Technology,Chennai,Corporate,2,55000,0.15,93500,Credit Card
+248,ORD0221,13-04-2026,Sanjay,P009,Tablet,Technology,Hyderabad,Corporate,4,18000,0.05,68400,UPI
+249,ORD0252,29-05-2026,Manoj,P011,Bookshelf,Furniture,Bengaluru,Consumer,3,7200,0,21600,Credit Card
+250,ORD0004,23-05-2026,Sanjay,P007,USB Cable,Accessories,Vijayawada,Consumer,2,300,0.15,510,Cash
+251,ORD0106,03-09-2026,Divya,P010,Office Desk,Furniture,Visakhapatnam,Consumer,3,9000,0.15,22950,UPI
+252,ORD0054,01-04-2026,Manoj,P015,Power Bank,Accessories,Tirupati,Consumer,2,1800,0.05,3420,Credit Card
+253,ORD0134,30-07-2026,Aarav,P010,Office Desk,Furniture,Visakhapatnam,Home Office,4,9000,0.05,34200,Cash
+254,ORD0002,05-08-2026,Aarav,P011,Bookshelf,Furniture,Vijayawada,Consumer,5,7200,0,36000,Credit Card
+255,ORD0132,08-09-2026,Harini,P014,Desk Lamp,Furniture,Hyderabad,Corporate,5,1500,0.2,6000,Net Banking
+256,ORD0104,08-01-2026,Keerthi,P006,Office Chair,Furniture,Hyderabad,Corporate,2,6500,0.1,11700,UPI
+257,ORD0050,07-08-2026,Rohit,P003,Keyboard,Accessories,Vijayawada,Consumer,4,1200,0.2,3840,UPI
+258,ORD0081,07-03-2026,Pooja,P012,Webcam,Technology,Vijayawada,Corporate,2,3200,0.15,5440,Net Banking
+259,ORD0206,22-01-2026,Divya,P009,Tablet,Technology,Chennai,Corporate,4,18000,0.15,61200,Net Banking
+260,ORD0035,02-05-2026,Rahul,P014,Desk Lamp,Furniture,Tirupati,Corporate,1,1500,0,1500,Cash
+261,ORD0092,20-03-2026,Arjun,P007,USB Cable,Accessories,Hyderabad,Home Office,3,300,0.15,765,Net Banking
+262,ORD0053,01-07-2026,Sanjay,P004,Monitor,Technology,Tirupati,Home Office,2,14500,0,29000,Credit Card
+263,ORD0242,17-06-2026,Vikram,P006,Office Chair,Furniture,Bengaluru,Corporate,1,6500,0,6500,Cash
+264,ORD0014,13-09-2026,Arjun,P015,Power Bank,Accessories,Nellore,Consumer,3,1800,0.05,5130,Debit Card
+265,ORD0089,12-04-2026,Ananya,P011,Bookshelf,Furniture,Chennai,Consumer,4,7200,0.15,24480,Debit Card
+266,ORD0167,09-05-2026,Sanjay,P005,Printer,Technology,Hyderabad,Consumer,2,12500,0.05,23750,UPI
+267,ORD0123,21-08-2026,Ananya,P014,Desk Lamp,Furniture,Visakhapatnam,Corporate,5,1500,0,7500,Debit Card
+268,ORD0135,19-03-2026,Divya,P012,Webcam,Technology,Vijayawada,Consumer,4,3200,0.15,10880,Net Banking
+269,ORD0032,26-07-2026,Keerthi,P011,Bookshelf,Furniture,Visakhapatnam,Consumer,1,7200,0,7200,Credit Card
+270,ORD0244,30-01-2026,Ananya,P010,Office Desk,Furniture,Tirupati,Corporate,4,9000,0.1,32400,Net Banking
+271,ORD0055,08-05-2026,Kiran,P012,Webcam,Technology,Hyderabad,Home Office,3,3200,0.15,8160,UPI
+272,ORD0051,19-01-2026,Harini,P015,Power Bank,Accessories,Visakhapatnam,Home Office,2,1800,0.2,2880,Net Banking
+273,ORD0175,28-02-2026,Harini,P010,Office Desk,Furniture,Chennai,Corporate,4,9000,0,36000,Cash
+274,ORD0190,26-05-2026,Vikram,P006,Office Chair,Furniture,Nellore,Home Office,4,6500,0,26000,Debit Card
+275,ORD0215,09-04-2026,Priya,P004,Monitor,Technology,Hyderabad,Consumer,3,14500,0.15,36975,UPI
+276,ORD0188,11-02-2026,Kiran,P013,External Hard Drive,Technology,Nellore,Home Office,5,4800,0,24000,Cash
+277,ORD0170,20-09-2026,Pooja,P008,Headphones,Accessories,Guntur,Corporate,4,2200,0.1,7920,Net Banking
+278,ORD0059,14-05-2026,Rahul,P006,Office Chair,Furniture,Bengaluru,Consumer,1,6500,0,6500,UPI
+279,ORD0049,23-01-2026,Aarav,P002,Mouse,Accessories,Visakhapatnam,Consumer,4,750,0.1,2700,Debit Card
+280,ORD0236,31-05-2026,Priya,P012,Webcam,Technology,Vijayawada,Consumer,4,3200,0,12800,UPI
+281,ORD0253,25-04-2026,Ananya,P013,External Hard Drive,Technology,Chennai,Consumer,3,4800,0.2,11520,Credit Card
+282,ORD0022,15-06-2026,Divya,P013,External Hard Drive,Technology,Vijayawada,Consumer,5,4800,0,24000,Debit Card
+283,ORD0161,01-08-2026,Vikram,P007,USB Cable,Accessories,Guntur,Corporate,5,300,0.05,1425,Net Banking
+284,ORD0277,21-01-2026,Aarav,P009,Tablet,Technology,Vijayawada,Consumer,4,18000,0.2,57600,Debit Card
+285,ORD0192,29-05-2026,Sneha,P013,External Hard Drive,Technology,Guntur,Consumer,2,4800,0.1,8640,Cash
+286,ORD0258,23-09-2026,Rahul,P009,Tablet,Technology,Bengaluru,Consumer,1,18000,0,18000,Credit Card
+287,ORD0150,09-05-2026,Vikram,P004,Monitor,Technology,Hyderabad,Home Office,2,14500,0.2,23200,UPI
+288,ORD0131,17-09-2026,Kiran,P013,External Hard Drive,Technology,Vijayawada,Corporate,4,4800,0.1,17280,Debit Card
+289,ORD0152,01-08-2026,Rahul,P002,Mouse,Accessories,Chennai,Consumer,3,750,0.1,2025,Net Banking
+290,ORD0100,26-06-2026,Arjun,P006,Office Chair,Furniture,Visakhapatnam,Corporate,4,6500,0.2,20800,Cash
+291,ORD0088,09-06-2026,Ananya,P010,Office Desk,Furniture,Vijayawada,Corporate,1,9000,0.05,8550,Net Banking
+292,ORD0215,09-04-2026,Priya,P004,Monitor,Technology,Hyderabad,Consumer,3,14500,0.15,36975,UPI
+293,ORD0122,18-06-2026,Arjun,P006,Office Chair,Furniture,Nellore,Corporate,1,6500,0.05,6175,Cash
+294,ORD0238,02-07-2026,Harini,P013,External Hard Drive,Technology,Vijayawada,Home Office,2,4800,0.1,8640,Debit Card
+295,ORD0021,12-04-2026,Rahul,P014,Desk Lamp,Furniture,Visakhapatnam,Consumer,5,1500,0.2,6000,Net Banking
+296,ORD0189,01-08-2026,Kiran,P008,Headphones,Accessories,Chennai,Home Office,5,2200,0.15,9350,UPI
+297,ORD0072,12-06-2026,Sanjay,P003,Keyboard,Accessories,Nellore,Home Office,4,1200,0.2,3840,Net Banking
+298,ORD0107,03-02-2026,Arjun,P005,Printer,Technology,Nellore,Consumer,4,12500,0,50000,Net Banking
+299,ORD0271,30-06-2026,Aarav,P008,Headphones,Accessories,Vijayawada,Corporate,2,2200,0.05,4180,Cash
+300,ORD0103,25-05-2026,Ananya,P013,External Hard Drive,Technology,Chennai,Corporate,5,4800,0.2,19200,Credit Card
