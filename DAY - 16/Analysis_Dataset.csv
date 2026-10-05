@@ -1,0 +1,121 @@
+Order ID,Order Date,Region,City,Customer Name,Category,Product,Quantity,Unit Price,Discount,Sales,Profit
+ORD-1002,03-01-2026,West,Pune,Divya,Furniture,Conference Table,5,27744,0.08,127622.4,35632.68
+ORD-1003,14-03-2026,East,Vijayawada,Divya,Office Supplies,Pen Set,5,105,0.05,498.75,180.83
+ORD-1004,15-01-2026,West,Mumbai,Isha,Office Supplies,Stapler,3,130,0.2,312,128.11
+ORD-1005,13-05-2026,West,Hyderabad,Pooja,Office Supplies,File Folder,4,135,0.2,432,206.82
+ORD-1006,23-01-2026,East,Hyderabad,Aarav,Furniture,Conference Table,3,28932,0.1,78116.4,20877.08
+ORD-1007,12-06-2026,West,Mumbai,Rahul,Office Supplies,Stapler,8,240,0.02,1881.6,901.21
+ORD-1008,09-09-2026,North,Mumbai,Priya,Technology,Headphones,1,5150,0.08,4738,1161.81
+ORD-1009,15-03-2026,South,Delhi,Pooja,Furniture,Filing Cabinet,8,3640,0.15,24752,7819.26
+ORD-1010,19-09-2026,North,Bengaluru,Vikram,Technology,Printer,7,7704,0.1,48535.2,15963.23
+ORD-1011,24-01-2026,North,Vijayawada,Sanjay,Technology,Headphones,2,1962,0.02,3845.52,1455.67
+ORD-1012,03-05-2026,South,Hyderabad,Priya,Technology,Headphones,4,3292,0.02,12904.64,3701.85
+ORD-1013,26-08-2026,West,Mumbai,Ravi,Office Supplies,Pen Set,7,237,0.08,1526.28,825.91
+ORD-1014,15-09-2026,West,Hyderabad,Arjun,Technology,Laptop,4,42993,0.08,158214.24,43232.68
+ORD-1015,11-08-2026,South,Delhi,Divya,Technology,Keyboard,2,3490,0.05,6631,2396.84
+ORD-1016,05-04-2026,East,Mumbai,Sneha,Technology,Smartphone,7,31226,0.1,196723.8,67676.9
+ORD-1017,05-06-2026,East,Hyderabad,Rahul,Furniture,Desk,7,15784,0.2,88390.4,27935.51
+ORD-1018,15-09-2026,South,Mumbai,Kavya,Furniture,Conference Table,8,19915,0.02,156133.6,33395.99
+ORD-1019,12-09-2026,North,Kolkata,Kavya,Technology,Headphones,6,2079,0,12474,3817.3
+ORD-1020,03-02-2026,South,Bengaluru,Aditya,Technology,Laptop,6,65296,0.08,360433.92,120636.69
+ORD-1021,15-04-2026,North,Pune,Aarav,Technology,Headphones,1,1307,0.02,1280.86,418.45
+ORD-1022,18-05-2026,North,Bengaluru,Swathi,Furniture,Office Chair,4,5913,0.02,23178.96,5316.12
+ORD-1023,30-03-2026,North,Bengaluru,Aarav,Office Supplies,Paper Pack,3,607,0.15,1547.85,687.3
+ORD-1024,19-02-2026,South,Vijayawada,Sneha,Technology,Monitor,5,19967,0.15,84859.75,21196.75
+ORD-1025,28-04-2026,East,Bengaluru,Rohit,Office Supplies,File Folder,2,236,0.15,401.2,133.17
+ORD-1026,17-01-2026,South,Chennai,Sneha,Furniture,Office Chair,2,6483,0.08,11928.72,3647.98
+ORD-1027,26-07-2026,West,Pune,Priya,Technology,Keyboard,6,1074,0,6444,1745.43
+ORD-1028,11-07-2026,West,Vijayawada,Pooja,Office Supplies,Paper Pack,4,859,0.05,3264.2,1237.51
+ORD-1029,29-01-2026,South,Delhi,Kavya,Technology,Laptop,7,48966,0.08,315341.04,75140.73
+ORD-1030,17-03-2026,West,Bengaluru,Vikram,Furniture,Office Chair,7,11963,0.05,79553.95,25152.84
+ORD-1031,18-08-2026,North,Chennai,Aarav,Technology,Keyboard,7,1130,0,7910,1907.13
+ORD-1032,30-07-2026,North,Vijayawada,Priya,Technology,Headphones,5,2797,0.1,12586.5,3437.39
+ORD-1033,10-02-2026,East,Mumbai,Kiran,Office Supplies,Calculator,3,502,0.05,1430.7,587.37
+ORD-1034,17-03-2026,North,Pune,Ravi,Office Supplies,Paper Pack,7,539,0.1,3395.7,1803.34
+ORD-1035,14-05-2026,West,Pune,Rohit,Furniture,Conference Table,2,22350,0.2,35760,6174.09
+ORD-1036,25-07-2026,East,Mumbai,Neha,Furniture,Office Chair,2,5534,0.05,10514.6,1682.82
+ORD-1037,12-04-2026,North,Delhi,Kiran,Technology,Monitor,8,8232,0.15,55977.6,21234.69
+ORD-1038,17-05-2026,North,Kolkata,Sneha,Office Supplies,Pen Set,7,272,0.1,1713.6,639.28
+ORD-1039,22-03-2026,South,Vijayawada,Kavya,Furniture,Conference Table,5,31240,0.05,148390,27383.3
+ORD-1040,18-05-2026,South,Hyderabad,Priya,Technology,Monitor,1,8007,0.1,7206.3,2624.84
+ORD-1041,10-05-2026,West,Hyderabad,Vikram,Furniture,Conference Table,1,23714,0,23714,3813.92
+ORD-1042,06-06-2026,South,Bengaluru,Sneha,Furniture,Filing Cabinet,7,6963,0.02,47766.18,10049.39
+ORD-1043,15-04-2026,South,Delhi,Rahul,Technology,Keyboard,2,2346,0.02,4598.16,1726.97
+ORD-1044,16-06-2026,West,Bengaluru,Vikram,Office Supplies,Stapler,5,600,0.08,2760,1304.15
+ORD-1045,28-07-2026,West,Hyderabad,Varun,Technology,Keyboard,1,1000,0.05,950,357.73
+ORD-1046,29-03-2026,East,Bengaluru,Pooja,Technology,Headphones,4,3162,0,12648,4456.35
+ORD-1047,11-06-2026,West,Delhi,Pooja,Furniture,Office Chair,3,11644,0.2,27945.6,4738.62
+ORD-1048,28-07-2026,North,Bengaluru,Meena,Office Supplies,Stapler,5,244,0.08,1122.4,451.36
+ORD-1049,11-03-2026,North,Hyderabad,Varun,Office Supplies,Pen Set,4,103,0.2,329.6,108.66
+ORD-1050,30-01-2026,East,Pune,Vikram,Technology,Printer,7,10848,0.05,72139.2,27234.54
+ORD-1051,26-09-2026,East,Chennai,Ravi,Office Supplies,Stapler,4,519,0.02,2034.48,1100
+ORD-1052,03-06-2026,South,Pune,Sanjay,Furniture,Bookshelf,4,3486,0,13944,3212.9
+ORD-1053,28-06-2026,West,Vijayawada,Arjun,Office Supplies,Pen Set,5,474,0.1,2133,1143.84
+ORD-1054,06-06-2026,South,Hyderabad,Arjun,Furniture,Office Chair,6,8767,0.05,49971.9,12131.95
+ORD-1055,08-08-2026,South,Chennai,Arjun,Office Supplies,File Folder,2,215,0.1,387,201.09
+ORD-1056,14-03-2026,West,Pune,Ananya,Office Supplies,Pen Set,8,211,0.1,1519.2,748.81
+ORD-1057,31-05-2026,South,Vijayawada,Rohit,Technology,Smartphone,6,43702,0.2,209769.6,51586.6
+ORD-1058,18-01-2026,West,Delhi,Pooja,Technology,Laptop,2,44838,0.02,87882.48,20680.03
+ORD-1059,28-06-2026,West,Delhi,Kavya,Furniture,Desk,3,14212,0.02,41783.28,10789.68
+ORD-1060,25-02-2026,West,Delhi,Swathi,Technology,Printer,7,11944,0.15,71066.8,25261.17
+ORD-1061,12-08-2026,South,Bengaluru,Meena,Furniture,Desk,4,11187,0.08,41168.16,6313.92
+ORD-1062,05-05-2026,West,Kolkata,Pooja,Office Supplies,Notebook,7,272,0,1904,1042.34
+ORD-1063,09-07-2026,East,Pune,Isha,Furniture,Office Chair,5,6484,0,32420,9817.04
+ORD-1064,02-05-2026,East,Hyderabad,Meena,Technology,Smartphone,2,32286,0.05,61343.4,13856.18
+ORD-1065,22-09-2026,East,Mumbai,Varun,Furniture,Desk,6,13349,0.2,64075.2,17322.66
+ORD-1066,14-02-2026,West,Pune,Varun,Technology,Smartphone,6,44069,0.15,224751.9,85116.61
+ORD-1067,14-02-2026,West,Kolkata,Isha,Furniture,Desk,6,15773,0.15,80442.3,16811.71
+ORD-1068,25-07-2026,East,Bengaluru,Ananya,Furniture,Desk,2,7530,0.05,14307,2842.66
+ORD-1069,08-06-2026,East,Chennai,Meena,Furniture,Bookshelf,5,7188,0.02,35221.2,9082.36
+ORD-1070,26-05-2026,West,Kolkata,Swathi,Furniture,Conference Table,5,12029,0.15,51123.25,10894.89
+ORD-1071,28-01-2026,West,Chennai,Swathi,Furniture,Filing Cabinet,6,5735,0.2,27528,5888.72
+ORD-1072,31-08-2026,North,Pune,Ananya,Office Supplies,Stapler,4,333,0,1332,712.7
+ORD-1073,03-06-2026,West,Kolkata,Sanjay,Office Supplies,Paper Pack,6,750,0.08,4140,2044.56
+ORD-1074,28-06-2026,East,Chennai,Priya,Furniture,Bookshelf,4,4711,0,18844,2904.56
+ORD-1075,11-07-2026,East,Bengaluru,Arjun,Office Supplies,Notebook,5,293,0.15,1245.25,467.37
+ORD-1076,08-09-2026,South,Mumbai,Rohit,Furniture,Desk,5,11356,0.15,48263,14761.52
+ORD-1077,16-07-2026,North,Hyderabad,Varun,Technology,Monitor,4,18361,0.08,67568.48,15175.34
+ORD-1078,17-08-2026,West,Hyderabad,Isha,Furniture,Office Chair,4,6633,0.08,24409.44,4415.59
+ORD-1079,17-02-2026,East,Kolkata,Ravi,Office Supplies,Paper Pack,1,377,0.2,301.6,113.05
+ORD-1080,11-08-2026,South,Chennai,Swathi,Office Supplies,Notebook,5,328,0,1640,572.18
+ORD-1081,21-02-2026,South,Delhi,Sanjay,Technology,Laptop,1,51322,0.02,50295.56,19108.71
+ORD-1082,20-01-2026,North,Vijayawada,Aditya,Technology,Monitor,3,9739,0,29217,11051.28
+ORD-1083,05-03-2026,North,Bengaluru,Ananya,Furniture,Office Chair,6,10746,0,64476,15390.48
+ORD-1084,03-01-2026,East,Pune,Rahul,Office Supplies,Paper Pack,2,526,0.2,841.6,430.13
+ORD-1085,27-09-2026,North,Bengaluru,Arjun,Office Supplies,Stapler,1,126,0.2,100.8,41.44
+ORD-1086,19-09-2026,West,Delhi,Neha,Technology,Headphones,4,5826,0.08,21439.68,6569.06
+ORD-1087,13-06-2026,West,Pune,Ravi,Furniture,Bookshelf,1,6717,0.02,6582.66,1825.16
+ORD-1088,10-09-2026,West,Delhi,Sneha,Office Supplies,Calculator,7,774,0.1,4876.2,2567.21
+ORD-1089,10-07-2026,South,Mumbai,Aditya,Furniture,Filing Cabinet,7,5031,0.02,34512.66,10492.96
+ORD-1090,26-06-2026,West,Mumbai,Ananya,Technology,Monitor,6,16442,0.1,88786.8,31085.5
+ORD-1091,22-06-2026,South,Mumbai,Priya,Technology,Headphones,5,1218,0.05,5785.5,1577.67
+ORD-1092,18-01-2026,West,Kolkata,Kiran,Office Supplies,File Folder,6,237,0.15,1208.7,484.97
+ORD-1093,27-09-2026,South,Vijayawada,Swathi,Office Supplies,File Folder,4,132,0.2,422.4,157.89
+ORD-1094,04-02-2026,East,Hyderabad,Aditya,Furniture,Desk,1,10557,0.02,10345.86,1853.2
+ORD-1095,29-05-2026,South,Bengaluru,Vikram,Office Supplies,Stapler,6,142,0.08,783.84,327.51
+ORD-1096,07-05-2026,North,Delhi,Ravi,Technology,Monitor,1,11588,0.15,9849.8,3368.83
+ORD-1097,20-06-2026,West,Chennai,Isha,Office Supplies,Calculator,4,905,0.1,3258,1628.99
+ORD-1098,25-05-2026,East,Chennai,Isha,Technology,Keyboard,3,2977,0.15,7591.35,2693.65
+ORD-1099,19-06-2026,West,Kolkata,Kavya,Technology,Printer,7,9047,0.2,50663.2,13464.8
+ORD-1100,10-06-2026,South,Mumbai,Rahul,Office Supplies,Stapler,6,328,0.2,1574.4,628.9
+ORD-1101,17-04-2026,South,Hyderabad,Ravi,Furniture,Conference Table,2,33545,0.05,63735.5,11436.84
+ORD-1102,01-03-2026,South,Vijayawada,Neha,Office Supplies,Pen Set,8,133,0.2,851.2,457.27
+ORD-1103,28-01-2026,North,Pune,Sanjay,Office Supplies,Paper Pack,3,885,0,2655,1163.33
+ORD-1104,03-07-2026,South,Pune,Rahul,Office Supplies,Paper Pack,1,534,0.1,480.6,184.52
+ORD-1105,16-06-2026,West,Mumbai,Sanjay,Furniture,Office Chair,1,10362,0.05,9843.9,2874.12
+ORD-1106,02-04-2026,East,Bengaluru,Swathi,Furniture,Bookshelf,6,8917,0.15,45476.7,11078.16
+ORD-1107,06-07-2026,East,Mumbai,Swathi,Office Supplies,Pen Set,5,196,0.1,882,288.27
+ORD-1108,26-08-2026,North,Mumbai,Ravi,Office Supplies,Notebook,4,277,0.05,1052.6,506.2
+ORD-1109,03-08-2026,North,Chennai,Kavya,Furniture,Conference Table,5,13804,0.2,55216,13125.32
+ORD-1110,20-08-2026,South,Hyderabad,Varun,Furniture,Office Chair,6,4391,0.02,25819.08,4179.49
+ORD-1111,06-08-2026,East,Pune,Aarav,Technology,Smartphone,3,39820,0.02,117070.8,35126.6
+ORD-1112,23-03-2026,North,Mumbai,Kiran,Technology,Laptop,2,43119,0,86238,20450.76
+ORD-1113,14-07-2026,East,Pune,Neha,Office Supplies,Paper Pack,5,403,0,2015,1094.02
+ORD-1114,27-07-2026,South,Mumbai,Swathi,Furniture,Conference Table,8,25365,0,202920,53755.17
+ORD-1115,25-03-2026,North,Delhi,Varun,Technology,Keyboard,2,2788,0,5576,1420.51
+ORD-1116,27-04-2026,North,Mumbai,Meena,Technology,Smartphone,8,20478,0,163824,52818.31
+ORD-1117,07-09-2026,West,Mumbai,Pooja,Office Supplies,Pen Set,3,396,0,1188,384.2
+ORD-1118,21-05-2026,North,Kolkata,Divya,Technology,Headphones,2,1466,0.08,2697.44,749.26
+ORD-1119,01-07-2026,East,Kolkata,Divya,Office Supplies,Notebook,7,112,0.02,768.32,387.29
+ORD-1120,28-08-2026,North,Hyderabad,Sanjay,Furniture,Filing Cabinet,7,8777,0.1,55295.1,12897.92
+ORD-1121,09-03-2026,North,Hyderabad,Meena,Office Supplies,Stapler,5,335,0,1675,835.12
